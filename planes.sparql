@@ -1,0 +1,16 @@
+SELECT DISTINCT
+  ?aircraft ?aircraftLabel
+  ?engine ?engineLabel
+  ?maxAltitude
+  ?totalProduced
+WHERE {
+  ?aircraft wdt:P31/wdt:P279* wd:Q15056993.  # Экземпляр или подкласс "семейство самолётов"
+  ?aircraft wdt:P516 ?engine.                # Двигатель (powered by)
+  ?aircraft wdt:P2254 ?maxAltitude.         # Максимальная высота (maximum operating altitude)
+  ?aircraft wdt:P1092 ?totalProduced.       # Количество произведённых самолётов (total produced)
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".
+  }
+}
+ORDER BY DESC(?totalProduced)
