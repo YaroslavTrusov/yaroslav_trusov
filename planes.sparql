@@ -1,3 +1,5 @@
+# Extracting aircraft with the aircraft engine to see how the engine type affects the maximum altitude, price, and total number of aircraft produced
+# Извлекаем самолеты с указанием двигателя самолета, чтобы посмотреть, как влияет тип двигателя на максимальную высоту, цену и общее количество произведенных самолетов
 SELECT
   ?aircraft ?aircraftLabel
   ?engine ?engineLabel
