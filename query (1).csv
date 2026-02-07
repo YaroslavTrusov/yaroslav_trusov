@@ -1,0 +1,858 @@
+aircraft,aircraftLabel,engine,engineLabel,maxAltitude,price,totalProduced
+http://www.wikidata.org/entity/Q211443,Ил-2,http://www.wikidata.org/entity/Q599854,АМ-38,,,36163
+http://www.wikidata.org/entity/Q943360,У-2,http://www.wikidata.org/entity/Q742981,М-11,,,33528
+http://www.wikidata.org/entity/Q207700,Антонов Ан-2,http://www.wikidata.org/entity/Q15051031,Shvetsov ASh-62IR,,,18000
+http://www.wikidata.org/entity/Q562475,Як-9,http://www.wikidata.org/entity/Q977265,М-105,10750,,16769
+http://www.wikidata.org/entity/Q154106,Bell UH-1 Iroquois,http://www.wikidata.org/entity/Q17374999,T53-L-9A,,,16000
+http://www.wikidata.org/entity/Q154106,Bell UH-1 Iroquois,http://www.wikidata.org/entity/Q17374977,T53-L-11,,,16000
+http://www.wikidata.org/entity/Q207089,Рипаблик P-47 «Тандерболт»,http://www.wikidata.org/entity/Q1851343,Pratt & Whitney R-2800,13100,,15686
+http://www.wikidata.org/entity/Q187377,МиГ-15,http://www.wikidata.org/entity/Q15050545,RD-45,,,15560
+http://www.wikidata.org/entity/Q187377,МиГ-15,http://www.wikidata.org/entity/Q390219,ВК-1,,,15560
+http://www.wikidata.org/entity/Q194251,Hawker Hurricane,http://www.wikidata.org/entity/Q1412885,Rolls-Royce Merlin,,,14532
+http://www.wikidata.org/entity/Q465806,Chance Vought F4U Corsair,http://www.wikidata.org/entity/Q1851343,Pratt & Whitney R-2800,,,12618
+http://www.wikidata.org/entity/Q155635,Ми-8,http://www.wikidata.org/entity/Q221136,ТВ2-117,4500,,12000
+http://www.wikidata.org/entity/Q152976,МиГ-17,http://www.wikidata.org/entity/Q390219,ВК-1,16600,,10649
+http://www.wikidata.org/entity/Q6387,Boeing 737,http://www.wikidata.org/entity/Q3574620,CFM International CFM56,11300,,10510
+http://www.wikidata.org/entity/Q6387,Boeing 737,http://www.wikidata.org/entity/Q2107964,Pratt & Whitney JT8D,11300,,10510
+http://www.wikidata.org/entity/Q672488,Piper PA-18 Super Cub,http://www.wikidata.org/entity/Q591725,Lycoming O-320,,,10326
+http://www.wikidata.org/entity/Q502117,Норт Американ B-25 «Митчелл»,http://www.wikidata.org/entity/Q1659797,R-2600 Twin Cyclone,7600,,9984
+http://www.wikidata.org/entity/Q6475,Airbus A320,http://www.wikidata.org/entity/Q3574620,CFM International CFM56,12130,75900000,9693
+http://www.wikidata.org/entity/Q6475,Airbus A320,http://www.wikidata.org/entity/Q3574620,CFM International CFM56,12130,90500000,9693
+http://www.wikidata.org/entity/Q6475,Airbus A320,http://www.wikidata.org/entity/Q3574620,CFM International CFM56,12130,99000000,9693
+http://www.wikidata.org/entity/Q6475,Airbus A320,http://www.wikidata.org/entity/Q3574620,CFM International CFM56,12130,116000000,9693
+http://www.wikidata.org/entity/Q6475,Airbus A320,http://www.wikidata.org/entity/Q2599083,International Aero Engines V2500,12130,75900000,9693
+http://www.wikidata.org/entity/Q6475,Airbus A320,http://www.wikidata.org/entity/Q2599083,International Aero Engines V2500,12130,90500000,9693
+http://www.wikidata.org/entity/Q6475,Airbus A320,http://www.wikidata.org/entity/Q2599083,International Aero Engines V2500,12130,99000000,9693
+http://www.wikidata.org/entity/Q6475,Airbus A320,http://www.wikidata.org/entity/Q2599083,International Aero Engines V2500,12130,116000000,9693
+http://www.wikidata.org/entity/Q6475,Airbus A320,http://www.wikidata.org/entity/Q940491,Pratt & Whitney PW1000G,12130,75900000,9693
+http://www.wikidata.org/entity/Q6475,Airbus A320,http://www.wikidata.org/entity/Q940491,Pratt & Whitney PW1000G,12130,90500000,9693
+http://www.wikidata.org/entity/Q6475,Airbus A320,http://www.wikidata.org/entity/Q940491,Pratt & Whitney PW1000G,12130,99000000,9693
+http://www.wikidata.org/entity/Q6475,Airbus A320,http://www.wikidata.org/entity/Q940491,Pratt & Whitney PW1000G,12130,116000000,9693
+http://www.wikidata.org/entity/Q6475,Airbus A320,http://www.wikidata.org/entity/Q262330,CFM International LEAP,12130,75900000,9693
+http://www.wikidata.org/entity/Q6475,Airbus A320,http://www.wikidata.org/entity/Q262330,CFM International LEAP,12130,90500000,9693
+http://www.wikidata.org/entity/Q6475,Airbus A320,http://www.wikidata.org/entity/Q262330,CFM International LEAP,12130,99000000,9693
+http://www.wikidata.org/entity/Q6475,Airbus A320,http://www.wikidata.org/entity/Q262330,CFM International LEAP,12130,116000000,9693
+http://www.wikidata.org/entity/Q505673,Як-1,http://www.wikidata.org/entity/Q977265,М-105,10000,,8734
+http://www.wikidata.org/entity/Q641977,Поликарпов И-16,http://www.wikidata.org/entity/Q1078024,R-1820 Cyclone 9,35433,,8644
+http://www.wikidata.org/entity/Q641977,Поликарпов И-16,http://www.wikidata.org/entity/Q669734,АШ-62,35433,,8644
+http://www.wikidata.org/entity/Q641977,Поликарпов И-16,http://www.wikidata.org/entity/Q371480,М-25,35433,,8644
+http://www.wikidata.org/entity/Q641977,Поликарпов И-16,http://www.wikidata.org/entity/Q61418,Bristol Jupiter,35433,,8644
+http://www.wikidata.org/entity/Q507476,Як-18,http://www.wikidata.org/entity/Q106295314,AI-14R,5060,,8000
+http://www.wikidata.org/entity/Q905316,Breguet 14,http://www.wikidata.org/entity/Q15125625,Renault 12Fe,,,7800
+http://www.wikidata.org/entity/Q939344,Douglas A-20 Havoc,http://www.wikidata.org/entity/Q1659797,R-2600 Twin Cyclone,7200,,7478
+http://www.wikidata.org/entity/Q939344,Douglas A-20 Havoc,http://www.wikidata.org/entity/Q2092558,Pratt & Whitney R-1830 Twin Wasp,7200,,7478
+http://www.wikidata.org/entity/Q203622,Avro Lancaster,http://www.wikidata.org/entity/Q1412885,Rolls-Royce Merlin,7500,,7377
+http://www.wikidata.org/entity/Q1071737,Р-5,http://www.wikidata.org/entity/Q2389899,М-17,6400,,7000
+http://www.wikidata.org/entity/Q15896132,Cessna 172M Skyhawk,http://www.wikidata.org/entity/Q15896041,O-320-E2D,,,6826
+http://www.wikidata.org/entity/Q546051,Як-7,http://www.wikidata.org/entity/Q977265,М-105,9500,,6399
+http://www.wikidata.org/entity/Q652911,Ил-28,http://www.wikidata.org/entity/Q390219,ВК-1,,,6316
+http://www.wikidata.org/entity/Q652911,Ил-28,http://www.wikidata.org/entity/Q390219,ВК-1,,,6316
+http://www.wikidata.org/entity/Q958075,Ил-10,http://www.wikidata.org/entity/Q386373,АМ-42,,,6166
+http://www.wikidata.org/entity/Q148846,Ла-7,http://www.wikidata.org/entity/Q1050634,АШ-82,10750,,5905
+http://www.wikidata.org/entity/Q18175583,Lockheed T-33A Shooting Star,http://www.wikidata.org/entity/Q106296067,J33-A-35,47500,,5871
+http://www.wikidata.org/entity/Q608997,Ми-2,http://www.wikidata.org/entity/Q626560,ГТД-350,13755,,5497
+http://www.wikidata.org/entity/Q608997,Ми-2,http://www.wikidata.org/entity/Q626560,ГТД-350,13755,,5497
+http://www.wikidata.org/entity/Q608997,Ми-2,http://www.wikidata.org/entity/Q626560,ГТД-350,13755,,5497
+http://www.wikidata.org/entity/Q607651,Sopwith Camel,http://www.wikidata.org/entity/Q5131818,Clerget 9B,7,,5490
+http://www.wikidata.org/entity/Q629425,Bristol F.2 Fighter,http://www.wikidata.org/entity/Q1514324,Rolls-Royce Falcon,,,5329
+http://www.wikidata.org/entity/Q151432,McDonnell Douglas F-4 Phantom II,http://www.wikidata.org/entity/Q631560,General Electric J79,,,5195
+http://www.wikidata.org/entity/Q630744,Як-12,http://www.wikidata.org/entity/Q720837,АИ-14,,,4992
+http://www.wikidata.org/entity/Q662591,Ли-2,http://www.wikidata.org/entity/Q669734,АШ-62,5600,,4937
+http://www.wikidata.org/entity/Q2096433,Piper PA-23-250 Aztec,http://www.wikidata.org/entity/Q677020,Lycoming O-540,,,4930
+http://www.wikidata.org/entity/Q248348,Як-3,http://www.wikidata.org/entity/Q977265,М-105,10700,,4848
+http://www.wikidata.org/entity/Q56881060,Dayton-Wright DH-4,http://www.wikidata.org/entity/Q1738041,Liberty L-12,19600,,4846
+http://www.wikidata.org/entity/Q15410360,Junkers Ju 52/3m,http://www.wikidata.org/entity/Q15222960,BMW 132T,,,4845
+http://www.wikidata.org/entity/Q100026,General Dynamics F-16 Fighting Falcon,http://www.wikidata.org/entity/Q1154115,Pratt & Whitney F100,,,4604
+http://www.wikidata.org/entity/Q100026,General Dynamics F-16 Fighting Falcon,http://www.wikidata.org/entity/Q1154115,Pratt & Whitney F100,,,4573
+http://www.wikidata.org/entity/Q330417,Bristol Blenheim,http://www.wikidata.org/entity/Q748146,Bristol Mercury,,,4422
+http://www.wikidata.org/entity/Q814007,Beechcraft Musketeer,http://www.wikidata.org/entity/Q630010,поршневой двигатель внутреннего сгорания,,,4366
+http://www.wikidata.org/entity/Q1057100,Cessna 177 Cardinal,http://www.wikidata.org/entity/Q1777769,Lycoming O-360,,,4295
+http://www.wikidata.org/entity/Q1970679,Royal Aircraft Factory R.E.8,http://www.wikidata.org/entity/Q15104978,RAF 4a,,,4180
+http://www.wikidata.org/entity/Q163488,Airco DH.9,http://www.wikidata.org/entity/Q648452,Siddeley Puma,,,4091
+http://www.wikidata.org/entity/Q1513705,Potez 25,http://www.wikidata.org/entity/Q3121573,Lorraine 12E Courlis,,,4000
+http://www.wikidata.org/entity/Q408463,Airco DH.4,http://www.wikidata.org/entity/Q15105285,Eagle VIII,22000,,3949
+http://www.wikidata.org/entity/Q408463,Airco DH.4,http://www.wikidata.org/entity/Q2164330,Rolls-Royce Eagle,22000,,3949
+http://www.wikidata.org/entity/Q140318,Gloster Meteor,http://www.wikidata.org/entity/Q723916,турбореактивный двигатель,,,3947
+http://www.wikidata.org/entity/Q167277,Aero L-29 Delfin,http://www.wikidata.org/entity/Q1179432,M-701,11000,,3665
+http://www.wikidata.org/entity/Q167277,Aero L-29 Delfin,http://www.wikidata.org/entity/Q1179432,M-701,36000,,3665
+http://www.wikidata.org/entity/Q700719,Nakajima Ki-84 Hayate,http://www.wikidata.org/entity/Q2755067,Nakajima Homare,,,3514
+http://www.wikidata.org/entity/Q700685,Nakajima Ki-27,http://www.wikidata.org/entity/Q2303705,Nakajima Kotobuki,,,3400
+http://www.wikidata.org/entity/Q696089,И-15,http://www.wikidata.org/entity/Q214098,Звездообразный двигатель,24672,,3313
+http://www.wikidata.org/entity/Q696089,И-15,http://www.wikidata.org/entity/Q371480,М-25,24672,,3313
+http://www.wikidata.org/entity/Q648864,Consolidated PBY Catalina,http://www.wikidata.org/entity/Q2092558,Pratt & Whitney R-1830 Twin Wasp,4000,,3305
+http://www.wikidata.org/entity/Q266066,Douglas A-1 Skyraider,http://www.wikidata.org/entity/Q786848,R-3350 Duplex Cyclone,,,3180
+http://www.wikidata.org/entity/Q56881060,Dayton-Wright DH-4,http://www.wikidata.org/entity/Q1738041,Liberty L-12,19600,,3106
+http://www.wikidata.org/entity/Q700717,Kawasaki Ki-61 Hien,http://www.wikidata.org/entity/Q6379757,Kawasaki Ha40,,,3100
+http://www.wikidata.org/entity/Q2101666,Q2101666,http://www.wikidata.org/entity/Q2594466,Wright J65,,,3043
+http://www.wikidata.org/entity/Q334759,Douglas A-4 Skyhawk,http://www.wikidata.org/entity/Q7238738,Pratt & Whitney J52,14000,,2960
+http://www.wikidata.org/entity/Q334759,Douglas A-4 Skyhawk,http://www.wikidata.org/entity/Q947434,General Electric F404,14000,,2960
+http://www.wikidata.org/entity/Q183146,Су-17,http://www.wikidata.org/entity/Q1866814,АЛ-21Ф-3,18000,,2867
+http://www.wikidata.org/entity/Q1424539,Breguet Br.19,http://www.wikidata.org/entity/Q113172681,Hispano-Suiza 12Nb,22000,,2700
+http://www.wikidata.org/entity/Q1279022,Navion,http://www.wikidata.org/entity/Q18049494,GO-435,5500,,2634
+http://www.wikidata.org/entity/Q671838,Fairey Barracuda,http://www.wikidata.org/entity/Q1412885,Rolls-Royce Merlin,,,2607
+http://www.wikidata.org/entity/Q182027,Локхид C-130 «Геркулес»,http://www.wikidata.org/entity/Q1710103,Allison 501 family,,,2600
+http://www.wikidata.org/entity/Q159881,Локхид F-104 «Старфайтер»,http://www.wikidata.org/entity/Q631560,General Electric J79,15000,,2578
+http://www.wikidata.org/entity/Q697583,Mitsubishi G4M,http://www.wikidata.org/entity/Q373562,Mitsubishi Kasei,,,2446
+http://www.wikidata.org/entity/Q674079,Fairey Swordfish,http://www.wikidata.org/entity/Q917964,Bristol Pegasus,,,2396
+http://www.wikidata.org/entity/Q875139,Short Stirling,http://www.wikidata.org/entity/Q912540,Bristol Hercules,,,2383
+http://www.wikidata.org/entity/Q155651,Ми-24,http://www.wikidata.org/entity/Q656113,ТВ3-117,4500,,2300
+http://www.wikidata.org/entity/Q531053,Норт Американ F-100 «Супер сейбр»,http://www.wikidata.org/entity/Q1969611,J57,15000,,2294
+http://www.wikidata.org/entity/Q616437,Ту-2,http://www.wikidata.org/entity/Q1050634,АШ-82,,,2257
+http://www.wikidata.org/entity/Q6717401,MQM-107 Streaker,http://www.wikidata.org/entity/Q4050801,Teledyne CAE J402,,,2236
+http://www.wikidata.org/entity/Q1330167,Fairey Battle,http://www.wikidata.org/entity/Q1412885,Rolls-Royce Merlin,,,2185
+http://www.wikidata.org/entity/Q15896961,Piper PA-31 Navajo,http://www.wikidata.org/entity/Q15896967,Lycoming TIO-540-A,,,2044
+http://www.wikidata.org/entity/Q247036,Yokosuka D4Y Suisei,http://www.wikidata.org/entity/Q3607059,Aichi Atsuta,,,2038
+http://www.wikidata.org/entity/Q247036,Yokosuka D4Y Suisei,http://www.wikidata.org/entity/Q2723523,Mitsubishi Kinsei,,,2038
+http://www.wikidata.org/entity/Q15780900,Airco DH.9A,http://www.wikidata.org/entity/Q1738041,Liberty L-12,16750,,1997
+http://www.wikidata.org/entity/Q170199,Су-7,http://www.wikidata.org/entity/Q1075763,АЛ-7,,,1874
+http://www.wikidata.org/entity/Q932091,Як-52,http://www.wikidata.org/entity/Q474611,М-14П,,,1800
+http://www.wikidata.org/entity/Q141640,Fiat CR.42 Falco,http://www.wikidata.org/entity/Q15142881,Fiat A.74 R1C.38,,,1782
+http://www.wikidata.org/entity/Q751759,Локхид F-80 «Шутинг стар»,http://www.wikidata.org/entity/Q477394,J33,,,1732
+http://www.wikidata.org/entity/Q1759739,Robin DR-400,http://www.wikidata.org/entity/Q15896245,IO-360,,,1712
+http://www.wikidata.org/entity/Q1759739,Robin DR-400,http://www.wikidata.org/entity/Q19360046,Lycoming O-360-A3A,,,1712
+http://www.wikidata.org/entity/Q994007,Fairey Firefly,http://www.wikidata.org/entity/Q2164325,Rolls-Royce Griffon,,,1702
+http://www.wikidata.org/entity/Q21697671,Curtiss SB2C-3 Helldiver,http://www.wikidata.org/entity/Q21684983,R-2600-20 Twin Cyclone,,,1675
+http://www.wikidata.org/entity/Q130681,МиГ-29,http://www.wikidata.org/entity/Q1193142,РД-33,18013,,1600
+http://www.wikidata.org/entity/Q56881060,Dayton-Wright DH-4,http://www.wikidata.org/entity/Q1738041,Liberty L-12,19600,,1600
+http://www.wikidata.org/entity/Q248224,LTV A-7 Corsair II,http://www.wikidata.org/entity/Q4269578,Allison TF41,,,1569
+http://www.wikidata.org/entity/Q1112841,ДБ-3,http://www.wikidata.org/entity/Q2440838,М-87,,,1528
+http://www.wikidata.org/entity/Q192779,Ту-16,http://www.wikidata.org/entity/Q839981,АМ-3,,,1509
+http://www.wikidata.org/entity/Q1056131,Cessna 208,http://www.wikidata.org/entity/Q15643532,PT6A-114,7745,,1500
+http://www.wikidata.org/entity/Q1056131,Cessna 208,http://www.wikidata.org/entity/Q15643532,PT6A-114,27600,,1500
+http://www.wikidata.org/entity/Q219764,ATR 72,http://www.wikidata.org/entity/Q1352680,PW100,,,1500
+http://www.wikidata.org/entity/Q403668,Aichi D3A,http://www.wikidata.org/entity/Q2723523,Mitsubishi Kinsei,,,1495
+http://www.wikidata.org/entity/Q46397,McDonnell Douglas F/A-18 Hornet,http://www.wikidata.org/entity/Q947434,General Electric F404,15250,,1480
+http://www.wikidata.org/entity/Q794571,Sud-Aviation Lama,http://www.wikidata.org/entity/Q106255978,Artouste IIIB,13125,,1450
+http://www.wikidata.org/entity/Q843413,Kawanishi N1K-J Shiden,http://www.wikidata.org/entity/Q502048,бензиновый двигатель внутреннего сгорания,,,1435
+http://www.wikidata.org/entity/Q140254,Messerschmitt Me.262,http://www.wikidata.org/entity/Q695801,Junkers Jumo 004,11450,,1433
+http://www.wikidata.org/entity/Q234371,Дассо Мираж III,http://www.wikidata.org/entity/Q923665,Atar,59000,,1422
+http://www.wikidata.org/entity/Q210338,Aichi E13A,http://www.wikidata.org/entity/Q64232662,Kinsei 43,8370,,1418
+http://www.wikidata.org/entity/Q62156,Антонов Ан-26,http://www.wikidata.org/entity/Q106295324,AI-24T,24600,,1403
+http://www.wikidata.org/entity/Q62156,Антонов Ан-26,http://www.wikidata.org/entity/Q15052176,Ivchenko AI-24VT,24600,,1403
+http://www.wikidata.org/entity/Q6478,Airbus A330,http://www.wikidata.org/entity/Q9070485,Rolls-Royce Trent 700,41100,,1378
+http://www.wikidata.org/entity/Q6478,Airbus A330,http://www.wikidata.org/entity/Q1501579,General Electric CF6,41100,,1378
+http://www.wikidata.org/entity/Q6478,Airbus A330,http://www.wikidata.org/entity/Q128862,Pratt & Whitney PW4000,41100,,1378
+http://www.wikidata.org/entity/Q337467,Антонов Ан-24,http://www.wikidata.org/entity/Q4053965,АИ-24,8400,,1367
+http://www.wikidata.org/entity/Q662593,МБР-2,http://www.wikidata.org/entity/Q1783518,АМ-34,,,1365
+http://www.wikidata.org/entity/Q662593,МБР-2,http://www.wikidata.org/entity/Q2389899,М-17,,,1365
+http://www.wikidata.org/entity/Q706036,Focke-Wulf Fw 58 Weihe,http://www.wikidata.org/entity/Q652115,Argus As 10,,,1350
+http://www.wikidata.org/entity/Q275031,Иљушин Ил-14,http://www.wikidata.org/entity/Q15057025,ASh-82T,6500,,1348
+http://www.wikidata.org/entity/Q192137,Су-25,http://www.wikidata.org/entity/Q4386273,Р-95Ш,17000,,1320
+http://www.wikidata.org/entity/Q696588,Fiat CR.32,http://www.wikidata.org/entity/Q15142425,A.30 R.A.,28871.4,,1312
+http://www.wikidata.org/entity/Q461651,Су-15,http://www.wikidata.org/entity/Q1138227,Р-13-300,,,1300
+http://www.wikidata.org/entity/Q1538864,Martin PBM Mariner,http://www.wikidata.org/entity/Q15622460,R-2600-22 Twin Cyclone,,,1285
+http://www.wikidata.org/entity/Q1065437,Грумман S-2 «Тракер»,http://www.wikidata.org/entity/Q15015299,R-1820-82WA Cyclone 9,,,1284
+http://www.wikidata.org/entity/Q271559,Антонов Ан-12,http://www.wikidata.org/entity/Q15051327,AI-20M,10200,,1248
+http://www.wikidata.org/entity/Q271559,Антонов Ан-12,http://www.wikidata.org/entity/Q15051324,AI-20K,10200,,1248
+http://www.wikidata.org/entity/Q271559,Антонов Ан-12,http://www.wikidata.org/entity/Q15051327,AI-20M,33500,,1248
+http://www.wikidata.org/entity/Q271559,Антонов Ан-12,http://www.wikidata.org/entity/Q15051324,AI-20K,33500,,1248
+http://www.wikidata.org/entity/Q700727,Nakajima Ki-44 Shoki,http://www.wikidata.org/entity/Q11044096,Nakajima Ha-5,,,1225
+http://www.wikidata.org/entity/Q502126,Воут F-8 «Крусейдер»,http://www.wikidata.org/entity/Q1969611,J57,11700,,1219
+http://www.wikidata.org/entity/Q29251,McDonnell Douglas F-15 Eagle,http://www.wikidata.org/entity/Q1154115,Pratt & Whitney F100,,,1198
+http://www.wikidata.org/entity/Q199570,МиГ-25,http://www.wikidata.org/entity/Q2551425,Р15Б-300,20700,,1190
+http://www.wikidata.org/entity/Q1538894,Ла-11,http://www.wikidata.org/entity/Q1050634,АШ-82,,,1182
+http://www.wikidata.org/entity/Q756036,Як-28,http://www.wikidata.org/entity/Q647286,Р-11-300,,,1180
+http://www.wikidata.org/entity/Q316321,Heinkel He 177,http://www.wikidata.org/entity/Q1157613,Daimler-Benz DB 605,8000,,1169
+http://www.wikidata.org/entity/Q746313,Су-9,http://www.wikidata.org/entity/Q1075763,АЛ-7,,,1150
+http://www.wikidata.org/entity/Q218387,Mitsubishi F1M,http://www.wikidata.org/entity/Q15217633,Nakajima Hikari 1,,,1148
+http://www.wikidata.org/entity/Q218387,Mitsubishi F1M,http://www.wikidata.org/entity/Q3317199,Mitsubishi Zuisei,,,1148
+http://www.wikidata.org/entity/Q15623287,Boeing 737-300,http://www.wikidata.org/entity/Q21111537,CFM International CFM56-3,,,1113
+http://www.wikidata.org/entity/Q15623287,Boeing 737-300,http://www.wikidata.org/entity/Q15623289,CFM56-3B1,,,1113
+http://www.wikidata.org/entity/Q3007842,Curtiss HS,http://www.wikidata.org/entity/Q1738041,Liberty L-12,,,1091
+http://www.wikidata.org/entity/Q128631,Junkers Ju 188,http://www.wikidata.org/entity/Q659617,Junkers Jumo 213,,,1076
+http://www.wikidata.org/entity/Q842481,Northrop F-89 Scorpion,http://www.wikidata.org/entity/Q478153,Allison J35,15000,,1052
+http://www.wikidata.org/entity/Q696356,Mitsubishi G3M,http://www.wikidata.org/entity/Q2723523,Mitsubishi Kinsei,,,1048
+http://www.wikidata.org/entity/Q172957,Ту-154,http://www.wikidata.org/entity/Q3199364,НК-8,,,1026
+http://www.wikidata.org/entity/Q172957,Ту-154,http://www.wikidata.org/entity/Q1049409,Д-30,,,1026
+http://www.wikidata.org/entity/Q891786,Bombardier CRJ200,http://www.wikidata.org/entity/Q1501603,General Electric CF34,,,1021
+http://www.wikidata.org/entity/Q505663,Яковлев Як-40,http://www.wikidata.org/entity/Q432654,АИ-25,6000,,1011
+http://www.wikidata.org/entity/Q6428,Boeing 787 Dreamliner,http://www.wikidata.org/entity/Q1501584,General Electric GEnx,13100,,1005
+http://www.wikidata.org/entity/Q6428,Boeing 787 Dreamliner,http://www.wikidata.org/entity/Q129136,Trent 1000,13100,,1005
+http://www.wikidata.org/entity/Q657597,Convair F-102 Delta Dagger,http://www.wikidata.org/entity/Q1969611,J57,16300,,1000
+http://www.wikidata.org/entity/Q6428,Boeing 787 Dreamliner,http://www.wikidata.org/entity/Q1501584,General Electric GEnx,13100,,972
+http://www.wikidata.org/entity/Q6428,Boeing 787 Dreamliner,http://www.wikidata.org/entity/Q129136,Trent 1000,13100,,972
+http://www.wikidata.org/entity/Q520964,English Electric Canberra,http://www.wikidata.org/entity/Q2164321,Rolls-Royce Avon,15000,,950
+http://www.wikidata.org/entity/Q142549,Ил-76,http://www.wikidata.org/entity/Q615977,ПС-90А,,,950
+http://www.wikidata.org/entity/Q2279968,Short Type 184,http://www.wikidata.org/entity/Q15105229,Maori Mk.II,9000,,936
+http://www.wikidata.org/entity/Q2279968,Short Type 184,http://www.wikidata.org/entity/Q12057229,Maori,9000,,936
+http://www.wikidata.org/entity/Q744635,Ми-6,http://www.wikidata.org/entity/Q1095278,Д-25,,,926
+http://www.wikidata.org/entity/Q151384,Eurofighter Typhoon,http://www.wikidata.org/entity/Q1375030,Eurojet EJ200,16765,,926
+http://www.wikidata.org/entity/Q837405,Локхид F-94 «Старфайр»,http://www.wikidata.org/entity/Q7238735,J48,15000,,855
+http://www.wikidata.org/entity/Q837405,Локхид F-94 «Старфайр»,http://www.wikidata.org/entity/Q477394,J33,15000,,855
+http://www.wikidata.org/entity/Q159067,Ту-134,http://www.wikidata.org/entity/Q1049409,Д-30,,,854
+http://www.wikidata.org/entity/Q699114,Kawasaki Ki-32,http://www.wikidata.org/entity/Q3814053,Q3814053,,,854
+http://www.wikidata.org/entity/Q616398,Ту-4,http://www.wikidata.org/entity/Q2451035,АШ-73,,,847
+http://www.wikidata.org/entity/Q686252,Junkers Ju 86,http://www.wikidata.org/entity/Q1529423,Junkers Jumo 207,13000,,840
+http://www.wikidata.org/entity/Q686252,Junkers Ju 86,http://www.wikidata.org/entity/Q917964,Bristol Pegasus,13000,,840
+http://www.wikidata.org/entity/Q686252,Junkers Ju 86,http://www.wikidata.org/entity/Q796376,BMW 132,13000,,840
+http://www.wikidata.org/entity/Q686252,Junkers Ju 86,http://www.wikidata.org/entity/Q529545,Junkers Jumo 205,13000,,840
+http://www.wikidata.org/entity/Q6273,Fiat G.50 Freccia,http://www.wikidata.org/entity/Q15142881,Fiat A.74 R1C.38,,,833
+http://www.wikidata.org/entity/Q724763,Рипаблик F-105 «Тандерчиф»,http://www.wikidata.org/entity/Q688730,J75,,,833
+http://www.wikidata.org/entity/Q1582144,Piper PA-31T Cheyenne,http://www.wikidata.org/entity/Q2061540,Pratt & Whitney Canada PT6,,,823
+http://www.wikidata.org/entity/Q616465,ТБ-3,http://www.wikidata.org/entity/Q113174391,AM-34,,,818
+http://www.wikidata.org/entity/Q173680,Су-27,http://www.wikidata.org/entity/Q1322080,АЛ-31Ф,18500,,809
+http://www.wikidata.org/entity/Q170211,McDonnell F-101 Voodoo,http://www.wikidata.org/entity/Q1969611,J57,17800,,807
+http://www.wikidata.org/entity/Q1393140,Fairey Albacore,http://www.wikidata.org/entity/Q917981,Bristol Taurus,,,800
+http://www.wikidata.org/entity/Q332809,Грумман А-6 «Интрудер»,http://www.wikidata.org/entity/Q7238738,Pratt & Whitney J52,12400,,793
+http://www.wikidata.org/entity/Q155490,Lockheed P-3 Orion,http://www.wikidata.org/entity/Q1710103,Allison 501 family,28300,,757
+http://www.wikidata.org/entity/Q31461,CAC Wirraway,http://www.wikidata.org/entity/Q1852043,R-1340 Wasp,,,755
+http://www.wikidata.org/entity/Q850179,Gloster Gladiator,http://www.wikidata.org/entity/Q748146,Bristol Mercury,,,747
+http://www.wikidata.org/entity/Q174534,Boeing B-52 Stratofortress,http://www.wikidata.org/entity/Q2107961,Pratt & Whitney JT3D,15000,,744
+http://www.wikidata.org/entity/Q1050763,De Havilland DH.89 Dragon Rapide,http://www.wikidata.org/entity/Q3703995,Gipsy Six,19350,,731
+http://www.wikidata.org/entity/Q192443,Fairchild Republic A-10 Thunderbolt II,http://www.wikidata.org/entity/Q17103978,General Electric TF34,,,716
+http://www.wikidata.org/entity/Q34945,Грумман F-14 «Томкэт»,http://www.wikidata.org/entity/Q1369279,General Electric F110,18000,,712
+http://www.wikidata.org/entity/Q34945,Грумман F-14 «Томкэт»,http://www.wikidata.org/entity/Q2574100,TF30,18000,,712
+http://www.wikidata.org/entity/Q911001,Иљушин Ил-12,http://www.wikidata.org/entity/Q1050634,АШ-82,6700,,663
+http://www.wikidata.org/entity/Q694456,Saab 29 Tunnan,http://www.wikidata.org/entity/Q287493,de Havilland Ghost,,,661
+http://www.wikidata.org/entity/Q461475,Saab 35 Draken,http://www.wikidata.org/entity/Q2164321,Rolls-Royce Avon,,,644
+http://www.wikidata.org/entity/Q852153,Як-25,http://www.wikidata.org/entity/Q926903,РД-9,,,638
+http://www.wikidata.org/entity/Q688148,Pilatus PC-7,http://www.wikidata.org/entity/Q106296434,PT6A-25A,,,618
+http://www.wikidata.org/entity/Q688148,Pilatus PC-7,http://www.wikidata.org/entity/Q18003208,PT6A-25C,,,618
+http://www.wikidata.org/entity/Q29261,F-35,http://www.wikidata.org/entity/Q1368421,Pratt & Whitney F135,,,610
+http://www.wikidata.org/entity/Q190211,Douglas DC-3,http://www.wikidata.org/entity/Q113179801,Twin Wasp S1C3G,24100,,607
+http://www.wikidata.org/entity/Q575356,Avro Lincoln,http://www.wikidata.org/entity/Q1412885,Rolls-Royce Merlin,,,604
+http://www.wikidata.org/entity/Q15896404,FR172 Reims Rocket,http://www.wikidata.org/entity/Q15896396,IO-360-D,,,590
+http://www.wikidata.org/entity/Q381249,Aero 45,http://www.wikidata.org/entity/Q1258445,Avia M 332,4350,,590
+http://www.wikidata.org/entity/Q522161,Kawasaki Ki-10,http://www.wikidata.org/entity/Q3814053,Q3814053,,,588
+http://www.wikidata.org/entity/Q488204,Cessna A-37 Dragonfly,http://www.wikidata.org/entity/Q1501589,General Electric J85,,,577
+http://www.wikidata.org/entity/Q270990,General Dynamics F-111,http://www.wikidata.org/entity/Q2574100,TF30,18290,,563
+http://www.wikidata.org/entity/Q6437,Airbus A300,http://www.wikidata.org/entity/Q2107978,Pratt & Whitney JT9D,11000,,561
+http://www.wikidata.org/entity/Q6437,Airbus A300,http://www.wikidata.org/entity/Q1501579,General Electric CF6,11000,,561
+http://www.wikidata.org/entity/Q6437,Airbus A300,http://www.wikidata.org/entity/Q128862,Pratt & Whitney PW4000,11000,,561
+http://www.wikidata.org/entity/Q223315,Douglas DC-8,http://www.wikidata.org/entity/Q15624051,JT3D-3B,9150,,556
+http://www.wikidata.org/entity/Q19794152,Cessna 310,http://www.wikidata.org/entity/Q18130619,O-470-B,,,547
+http://www.wikidata.org/entity/Q673449,Savoia-Marchetti SM.81 Pipistrello,http://www.wikidata.org/entity/Q15410465,Piaggio P.X RC.15,,,534
+http://www.wikidata.org/entity/Q689830,Hind,http://www.wikidata.org/entity/Q15514513,Kestrel V,,,528
+http://www.wikidata.org/entity/Q150050,МиГ-31,http://www.wikidata.org/entity/Q1049409,Д-30,20600,,519
+http://www.wikidata.org/entity/Q15838821,Beechcraft King Air C90,http://www.wikidata.org/entity/Q15838813,PT6A-20A,,,507
+http://www.wikidata.org/entity/Q181815,Ту-95,http://www.wikidata.org/entity/Q977186,НК-12,13716,,500
+http://www.wikidata.org/entity/Q204944,Ту-22М,http://www.wikidata.org/entity/Q1999175,НК-25,,,497
+http://www.wikidata.org/entity/Q313740,Дассо/Дорнье «Альфа джет»,http://www.wikidata.org/entity/Q106296136,Larzac 04,49200,,480
+http://www.wikidata.org/entity/Q6488,Airbus A320neo,http://www.wikidata.org/entity/Q940491,Pratt & Whitney PW1000G,,,474
+http://www.wikidata.org/entity/Q6488,Airbus A320neo,http://www.wikidata.org/entity/Q262330,CFM International LEAP,,,474
+http://www.wikidata.org/entity/Q844500,McDonnell Douglas F-15E Strike Eagle,http://www.wikidata.org/entity/Q1154115,Pratt & Whitney F100,,,470
+http://www.wikidata.org/entity/Q309792,De Havilland Canada DHC-3 Otter,http://www.wikidata.org/entity/Q1852043,R-1340 Wasp,5460,,466
+http://www.wikidata.org/entity/Q309792,De Havilland Canada DHC-3 Otter,http://www.wikidata.org/entity/Q1852043,R-1340 Wasp,18800,,466
+http://www.wikidata.org/entity/Q1100668,Ер-2,http://www.wikidata.org/entity/Q977265,М-105,,,462
+http://www.wikidata.org/entity/Q1100668,Ер-2,http://www.wikidata.org/entity/Q4054125,АЧ-30,,,462
+http://www.wikidata.org/entity/Q277491,Saab 340,http://www.wikidata.org/entity/Q21090969,CT7-5A,,,459
+http://www.wikidata.org/entity/Q277491,Saab 340,http://www.wikidata.org/entity/Q21090969,CT7-5A,,,459
+http://www.wikidata.org/entity/Q277491,Saab 340,http://www.wikidata.org/entity/Q21090969,CT7-5A,,,459
+http://www.wikidata.org/entity/Q15838870,King Air C90B,http://www.wikidata.org/entity/Q15838869,PT6A-21,,,456
+http://www.wikidata.org/entity/Q426074,Bombardier CSeries,http://www.wikidata.org/entity/Q940491,Pratt & Whitney PW1000G,,,455
+http://www.wikidata.org/entity/Q408469,Airco DH.2,http://www.wikidata.org/entity/Q3046516,Le Rhône 9C,,,453
+http://www.wikidata.org/entity/Q408469,Airco DH.2,http://www.wikidata.org/entity/Q369693,Гном Monosoupape,,,453
+http://www.wikidata.org/entity/Q1999293,Bristol Bulldog,http://www.wikidata.org/entity/Q748146,Bristol Mercury,,,443
+http://www.wikidata.org/entity/Q371950,Як-17,http://www.wikidata.org/entity/Q695801,Junkers Jumo 004,,,430
+http://www.wikidata.org/entity/Q39893,MBB/Kawasaki BK 117,http://www.wikidata.org/entity/Q17405091,Turbomeca Arriel 1E2,,,429
+http://www.wikidata.org/entity/Q39893,MBB/Kawasaki BK 117,http://www.wikidata.org/entity/Q17405091,Turbomeca Arriel 1E2,,,429
+http://www.wikidata.org/entity/Q1046250,PZL TS-11 Iskra,http://www.wikidata.org/entity/Q7955733,SO-3,11140,,424
+http://www.wikidata.org/entity/Q1046250,PZL TS-11 Iskra,http://www.wikidata.org/entity/Q7955733,SO-3,41000,,424
+http://www.wikidata.org/entity/Q1550381,Грумман AF «Гардиан»,http://www.wikidata.org/entity/Q1851343,Pratt & Whitney R-2800,,,390
+http://www.wikidata.org/entity/Q15623343,Boeing 737-500,http://www.wikidata.org/entity/Q15623289,CFM56-3B1,,,389
+http://www.wikidata.org/entity/Q647915,British Aerospace Jetstream,http://www.wikidata.org/entity/Q21129761,TPE331-10UG,7620,,386
+http://www.wikidata.org/entity/Q647915,British Aerospace Jetstream,http://www.wikidata.org/entity/Q21129761,TPE331-10UG,25000,,386
+http://www.wikidata.org/entity/Q647915,British Aerospace Jetstream,http://www.wikidata.org/entity/Q21129761,TPE331-10UG,7620,,386
+http://www.wikidata.org/entity/Q647915,British Aerospace Jetstream,http://www.wikidata.org/entity/Q21129761,TPE331-10UG,25000,,386
+http://www.wikidata.org/entity/Q285869,De Havilland Hornet,http://www.wikidata.org/entity/Q1412885,Rolls-Royce Merlin,,,383
+http://www.wikidata.org/entity/Q6147,Reggiane Re.2000 Falco,http://www.wikidata.org/entity/Q3901862,Piaggio P.XI,,,382
+http://www.wikidata.org/entity/Q728940,Грумман OV-1 «Мохок»,http://www.wikidata.org/entity/Q1632276,T53,,,380
+http://www.wikidata.org/entity/Q791468,Hawker Siddeley HS 748,http://www.wikidata.org/entity/Q450478,RB.53 Dart,,,380
+http://www.wikidata.org/entity/Q6481,Airbus A340,http://www.wikidata.org/entity/Q3574620,CFM International CFM56,12500,,377
+http://www.wikidata.org/entity/Q6481,Airbus A340,http://www.wikidata.org/entity/Q3574620,CFM International CFM56,12525,,377
+http://www.wikidata.org/entity/Q6481,Airbus A340,http://www.wikidata.org/entity/Q129148,Rolls-Royce Trent 500,12500,,377
+http://www.wikidata.org/entity/Q6481,Airbus A340,http://www.wikidata.org/entity/Q129148,Rolls-Royce Trent 500,12525,,377
+http://www.wikidata.org/entity/Q139289,Boeing 737 MAX,http://www.wikidata.org/entity/Q262330,CFM International LEAP,,,370
+http://www.wikidata.org/entity/Q428167,Let L-200 Morava,http://www.wikidata.org/entity/Q2545555,Walter Minor,6400,,367
+http://www.wikidata.org/entity/Q207280,Z 226,http://www.wikidata.org/entity/Q69746610,Walter Minor 6,,,364
+http://www.wikidata.org/entity/Q579939,Ан-32,http://www.wikidata.org/entity/Q15624814,Pratt & Whitney Canada PW150A,9500,,361
+http://www.wikidata.org/entity/Q579939,Ан-32,http://www.wikidata.org/entity/Q4053965,АИ-24,9500,,361
+http://www.wikidata.org/entity/Q2502130,Dewoitine D.500,http://www.wikidata.org/entity/Q3508249,Hispano-Suiza 12X,,,360
+http://www.wikidata.org/entity/Q2502130,Dewoitine D.500,http://www.wikidata.org/entity/Q254293,Hispano-Suiza 12Y,,,360
+http://www.wikidata.org/entity/Q1936241,Westland Wessex,http://www.wikidata.org/entity/Q7361325,Gnome,,,356
+http://www.wikidata.org/entity/Q1936241,Westland Wessex,http://www.wikidata.org/entity/Q3870226,Napier Gazelle,,,356
+http://www.wikidata.org/entity/Q1532201,Ка-15,http://www.wikidata.org/entity/Q106295316,AI-14V,,,354
+http://www.wikidata.org/entity/Q1163407,Embraer EMB 120 Brasilia,http://www.wikidata.org/entity/Q15839356,PW118,9085,,354
+http://www.wikidata.org/entity/Q826709,PZL P.11,http://www.wikidata.org/entity/Q214098,Звездообразный двигатель,,,350
+http://www.wikidata.org/entity/Q537678,Fairey Gannet,http://www.wikidata.org/entity/Q4793971,Armstrong Siddeley Double Mamba,,,348
+http://www.wikidata.org/entity/Q15838878,King Air E90,http://www.wikidata.org/entity/Q15623190,PT6A-28,,,347
+http://www.wikidata.org/entity/Q753808,Convair F-106 Delta Dart,http://www.wikidata.org/entity/Q688730,J75,17500,,342
+http://www.wikidata.org/entity/Q635687,McDonnell Douglas AV-8B Harrier II,http://www.wikidata.org/entity/Q822439,Rolls-Royce Pegasus,11580,,337
+http://www.wikidata.org/entity/Q18379974,Boeing 707-320C,http://www.wikidata.org/entity/Q2107961,Pratt & Whitney JT3D,,,335
+http://www.wikidata.org/entity/Q19381,English Electric Lightning,http://www.wikidata.org/entity/Q2164321,Rolls-Royce Avon,,,334
+http://www.wikidata.org/entity/Q607305,Ан-14,http://www.wikidata.org/entity/Q15052140,AI-14RF,5000,,332
+http://www.wikidata.org/entity/Q607305,Ан-14,http://www.wikidata.org/entity/Q15052138,AI-14R,5000,,332
+http://www.wikidata.org/entity/Q607305,Ан-14,http://www.wikidata.org/entity/Q15052140,AI-14RF,17060,,332
+http://www.wikidata.org/entity/Q607305,Ан-14,http://www.wikidata.org/entity/Q15052138,AI-14R,17060,,332
+http://www.wikidata.org/entity/Q263786,Saab 37 Viggen,http://www.wikidata.org/entity/Q2107964,Pratt & Whitney JT8D,,,330
+http://www.wikidata.org/entity/Q156753,Fokker Dr.I,http://www.wikidata.org/entity/Q15074469,Oberursel Ur.II,,,320
+http://www.wikidata.org/entity/Q156878,Heinkel He 162 Volksjager,http://www.wikidata.org/entity/Q787396,BMW 003,,,320
+http://www.wikidata.org/entity/Q336150,Ми-26,http://www.wikidata.org/entity/Q4153327,Д-136,,,318
+http://www.wikidata.org/entity/Q852159,Як-23,http://www.wikidata.org/entity/Q384435,РД-500,,,313
+http://www.wikidata.org/entity/Q6499,CASA C-295,http://www.wikidata.org/entity/Q134624132,PW127G,,,309
+http://www.wikidata.org/entity/Q285004,De Havilland Canada DHC-4 Caribou,http://www.wikidata.org/entity/Q106296602,R-2000-7M-2 Twin Wasp,24800,,307
+http://www.wikidata.org/entity/Q1245981,Do J Wal,http://www.wikidata.org/entity/Q796760,BMW VI,3000,,300
+http://www.wikidata.org/entity/Q1245981,Do J Wal,http://www.wikidata.org/entity/Q796760,BMW VI,9842.5,,300
+http://www.wikidata.org/entity/Q326931,Saab 21,http://www.wikidata.org/entity/Q1157613,Daimler-Benz DB 605,,,298
+http://www.wikidata.org/entity/Q6484,Airbus A350,http://www.wikidata.org/entity/Q9312113,Rolls-Royce Trent XWB,,,295
+http://www.wikidata.org/entity/Q1443293,Royal Aircraft Factory F.E.8,http://www.wikidata.org/entity/Q369693,Гном Monosoupape,,,295
+http://www.wikidata.org/entity/Q182575,Ильюшин Ил-62,http://www.wikidata.org/entity/Q1049409,Д-30,12000,,292
+http://www.wikidata.org/entity/Q6930029,Mráz Sokol,http://www.wikidata.org/entity/Q15027326,Walter Minor 4-III,4800,,287
+http://www.wikidata.org/entity/Q6930029,Mráz Sokol,http://www.wikidata.org/entity/Q15027326,Walter Minor 4-III,4800,,287
+http://www.wikidata.org/entity/Q257298,Fokker 100,http://www.wikidata.org/entity/Q1456020,Rolls-Royce RB.183 Tay,35000,,283
+http://www.wikidata.org/entity/Q1138882,Douglas A-3 Skywarrior,http://www.wikidata.org/entity/Q1969611,J57,,,282
+http://www.wikidata.org/entity/Q1245866,Dornier Do 24,http://www.wikidata.org/entity/Q897594,Bramo 323 Fafnir,,,279
+http://www.wikidata.org/entity/Q1245866,Dornier Do 24,http://www.wikidata.org/entity/Q1078024,R-1820 Cyclone 9,,,279
+http://www.wikidata.org/entity/Q725313,Hawker Siddeley Harrier,http://www.wikidata.org/entity/Q822439,Rolls-Royce Pegasus,15600,,278
+http://www.wikidata.org/entity/Q577389,Hawker Fury,http://www.wikidata.org/entity/Q2164346,Rolls-Royce Kestrel,,,275
+http://www.wikidata.org/entity/Q689357,Piaggio P.149,http://www.wikidata.org/entity/Q106295864,GO-480,5380,,272
+http://www.wikidata.org/entity/Q689357,Piaggio P.149,http://www.wikidata.org/entity/Q106295864,GO-480,19850,,272
+http://www.wikidata.org/entity/Q312541,Dornier 228,http://www.wikidata.org/entity/Q21121721,TPE331-5,,,270
+http://www.wikidata.org/entity/Q32020,Xian JH-7,http://www.wikidata.org/entity/Q1456848,Rolls-Royce Spey,,,270
+http://www.wikidata.org/entity/Q505929,Ка-27,http://www.wikidata.org/entity/Q656113,ТВ3-117,,,267
+http://www.wikidata.org/entity/Q150088,Saab JAS 39 Gripen,http://www.wikidata.org/entity/Q947434,General Electric F404,15240,,264
+http://www.wikidata.org/entity/Q18123752,H-19B Chickasaw,http://www.wikidata.org/entity/Q18123756,R-1300-3 Cyclone 7,,,264
+http://www.wikidata.org/entity/Q6471,Airbus A310,http://www.wikidata.org/entity/Q2107978,Pratt & Whitney JT9D,12300,,255
+http://www.wikidata.org/entity/Q6471,Airbus A310,http://www.wikidata.org/entity/Q1501579,General Electric CF6,12300,,255
+http://www.wikidata.org/entity/Q6471,Airbus A310,http://www.wikidata.org/entity/Q128862,Pratt & Whitney PW4000,12300,,255
+http://www.wikidata.org/entity/Q190973,Дассо «Рафаль»,http://www.wikidata.org/entity/Q585456,Snecma M88,16750,,253
+http://www.wikidata.org/entity/Q897846,PZL TS-8 Bies,http://www.wikidata.org/entity/Q17099300,Narkiewicz WN-3,,,251
+http://www.wikidata.org/entity/Q17909228,BT-14,http://www.wikidata.org/entity/Q17909776,R-985-25 Wasp Junior,,,251
+http://www.wikidata.org/entity/Q5830,Airbus A380,http://www.wikidata.org/entity/Q9070485,Rolls-Royce Trent 700,43000,,251
+http://www.wikidata.org/entity/Q5830,Airbus A380,http://www.wikidata.org/entity/Q1342413,Engine Alliance GP7200,43000,,251
+http://www.wikidata.org/entity/Q897846,PZL TS-8 Bies,http://www.wikidata.org/entity/Q17099300,Narkiewicz WN-3,,,251
+http://www.wikidata.org/entity/Q897846,PZL TS-8 Bies,http://www.wikidata.org/entity/Q17099300,Narkiewicz WN-3,,,251
+http://www.wikidata.org/entity/Q852,Локхид L-1011 «Тристар»,http://www.wikidata.org/entity/Q1636078,Rolls-Royce RB211,,,250
+http://www.wikidata.org/entity/Q725319,Fokker F28 Fellowship,http://www.wikidata.org/entity/Q1456848,Rolls-Royce Spey,11000,,241
+http://www.wikidata.org/entity/Q15838868,King Air C90A,http://www.wikidata.org/entity/Q15838869,PT6A-21,,,235
+http://www.wikidata.org/entity/Q931706,Ла-15,http://www.wikidata.org/entity/Q1422633,RB.37 Derwent,,,235
+http://www.wikidata.org/entity/Q931706,Ла-15,http://www.wikidata.org/entity/Q384435,РД-500,,,235
+http://www.wikidata.org/entity/Q856317,Sikorsky CH-53E Super Stallion,http://www.wikidata.org/entity/Q1501576,T64,,,234
+http://www.wikidata.org/entity/Q316212,Ми-14,http://www.wikidata.org/entity/Q656113,ТВ3-117,,,230
+http://www.wikidata.org/entity/Q9177195,Bombardier CRJ100,http://www.wikidata.org/entity/Q1501603,General Electric CF34,,,226
+http://www.wikidata.org/entity/Q9177195,Bombardier CRJ100,http://www.wikidata.org/entity/Q1501603,General Electric CF34,,,226
+http://www.wikidata.org/entity/Q683853,Fiat G.46,http://www.wikidata.org/entity/Q15133813,Alfa Romeo 115ter,,,223
+http://www.wikidata.org/entity/Q694258,Heinkel He 115,http://www.wikidata.org/entity/Q796376,BMW 132,,,223
+http://www.wikidata.org/entity/Q696488,H6K,http://www.wikidata.org/entity/Q2723523,Mitsubishi Kinsei,,,215
+http://www.wikidata.org/entity/Q15838880,King Air F90,http://www.wikidata.org/entity/Q15838873,PT6A-135,,,203
+http://www.wikidata.org/entity/Q182185,Lockheed JetStar,http://www.wikidata.org/entity/Q106296120,JT12A-8,37400,,202
+http://www.wikidata.org/entity/Q723296,Messerschmitt Me.323 Gigant,http://www.wikidata.org/entity/Q602185,Gnome et Rhône 14N,4000,,201
+http://www.wikidata.org/entity/Q1559612,PZL M28,http://www.wikidata.org/entity/Q37952633,PT6A-65B,7620,,200
+http://www.wikidata.org/entity/Q482600,KAI T-50 Golden Eagle,http://www.wikidata.org/entity/Q947434,General Electric F404,14630,,200
+http://www.wikidata.org/entity/Q15428008,Douglas DC-2,http://www.wikidata.org/entity/Q1078024,R-1820 Cyclone 9,,,198
+http://www.wikidata.org/entity/Q1086822,Supermarine Swift,http://www.wikidata.org/entity/Q2164321,Rolls-Royce Avon,,,197
+http://www.wikidata.org/entity/Q1393155,Fairey Flycatcher,http://www.wikidata.org/entity/Q15513042,Jaguar IV,19000,,196
+http://www.wikidata.org/entity/Q1393155,Fairey Flycatcher,http://www.wikidata.org/entity/Q15139769,Mercury IIA,19000,,196
+http://www.wikidata.org/entity/Q29006,Arado Ar 65,http://www.wikidata.org/entity/Q796760,BMW VI,7600,,194
+http://www.wikidata.org/entity/Q29006,Arado Ar 65,http://www.wikidata.org/entity/Q796760,BMW VI,24935,,194
+http://www.wikidata.org/entity/Q295466,AMX International AMX,http://www.wikidata.org/entity/Q28858457,RB 168 Sprey Mk 807,,,192
+http://www.wikidata.org/entity/Q536742,Блэкберн Скьюа,http://www.wikidata.org/entity/Q3644972,Bristol Perseus,,,192
+http://www.wikidata.org/entity/Q607566,Ан-28,http://www.wikidata.org/entity/Q15052601,PZL TWD-10B,,,191
+http://www.wikidata.org/entity/Q607566,Ан-28,http://www.wikidata.org/entity/Q15052445,Isotov TVD-850,,,191
+http://www.wikidata.org/entity/Q607566,Ан-28,http://www.wikidata.org/entity/Q2061540,Pratt & Whitney Canada PT6,,,191
+http://www.wikidata.org/entity/Q607566,Ан-28,http://www.wikidata.org/entity/Q1410423,ТВД-10,,,191
+http://www.wikidata.org/entity/Q1519116,T-25 Universal,http://www.wikidata.org/entity/Q106295941,IO-540-K1D5,16400,,189
+http://www.wikidata.org/entity/Q1519116,T-25 Universal,http://www.wikidata.org/entity/Q677020,Lycoming O-540,16400,,189
+http://www.wikidata.org/entity/Q616409,Ту-128,http://www.wikidata.org/entity/Q1075763,АЛ-7,,,188
+http://www.wikidata.org/entity/Q249890,Lockheed S-3 Viking,http://www.wikidata.org/entity/Q1501603,General Electric CF34,,,187
+http://www.wikidata.org/entity/Q486066,Sukhoi Superjet 100,http://www.wikidata.org/entity/Q1078034,PowerJet SaM146,,,186
+http://www.wikidata.org/entity/Q486066,Sukhoi Superjet 100,http://www.wikidata.org/entity/Q1078034,PowerJet SaM146,,,186
+http://www.wikidata.org/entity/Q486066,Sukhoi Superjet 100,http://www.wikidata.org/entity/Q1078034,PowerJet SaM146,,,186
+http://www.wikidata.org/entity/Q486066,Sukhoi Superjet 100,http://www.wikidata.org/entity/Q1078034,PowerJet SaM146,,,186
+http://www.wikidata.org/entity/Q15838806,King Air B90,http://www.wikidata.org/entity/Q15623188,PT6A-20,,,184
+http://www.wikidata.org/entity/Q505649,Як-42,http://www.wikidata.org/entity/Q1516558,Д-36,,,183
+http://www.wikidata.org/entity/Q1069038,NAMC YS-11,http://www.wikidata.org/entity/Q450478,RB.53 Dart,9450,,182
+http://www.wikidata.org/entity/Q82450,Consolidated TBY Sea Wolf,http://www.wikidata.org/entity/Q106296615,R-2800-22W Double Wasp,,,181
+http://www.wikidata.org/entity/Q1272666,Latécoère 298,http://www.wikidata.org/entity/Q15153966,Hispano-Suiza 12Ycrs,,,177
+http://www.wikidata.org/entity/Q812910,Beagle Pup,http://www.wikidata.org/entity/Q591725,Lycoming O-320,,,175
+http://www.wikidata.org/entity/Q18379969,Boeing 707-320B,http://www.wikidata.org/entity/Q2107961,Pratt & Whitney JT3D,,,175
+http://www.wikidata.org/entity/Q207286,Zlín Z-26,http://www.wikidata.org/entity/Q15027326,Walter Minor 4-III,,,173
+http://www.wikidata.org/entity/Q207274,Zlin Z-126 Trenér II,http://www.wikidata.org/entity/Q15027326,Walter Minor 4-III,,,168
+http://www.wikidata.org/entity/Q207274,Zlin Z-126 Trenér II,http://www.wikidata.org/entity/Q15027326,Walter Minor 4-III,,,168
+http://www.wikidata.org/entity/Q207274,Zlin Z-126 Trenér II,http://www.wikidata.org/entity/Q15027326,Walter Minor 4-III,,,168
+http://www.wikidata.org/entity/Q207274,Zlin Z-126 Trenér II,http://www.wikidata.org/entity/Q15027326,Walter Minor 4-III,,,168
+http://www.wikidata.org/entity/Q160469,Ту-124,http://www.wikidata.org/entity/Q175481,Д-20,11700,,165
+http://www.wikidata.org/entity/Q3607211,Airspeed Consul,http://www.wikidata.org/entity/Q4793969,Armstrong Siddeley Cheetah,,,162
+http://www.wikidata.org/entity/Q3607211,Airspeed Consul,http://www.wikidata.org/entity/Q4793969,Armstrong Siddeley Cheetah,,,162
+http://www.wikidata.org/entity/Q3607211,Airspeed Consul,http://www.wikidata.org/entity/Q4793969,Armstrong Siddeley Cheetah,,,162
+http://www.wikidata.org/entity/Q3607211,Airspeed Consul,http://www.wikidata.org/entity/Q4793969,Armstrong Siddeley Cheetah,,,162
+http://www.wikidata.org/entity/Q212172,FMA IA 58 Pucará,http://www.wikidata.org/entity/Q824609,Astazou,10000,,160
+http://www.wikidata.org/entity/Q697344,Dornier Do 18,http://www.wikidata.org/entity/Q529545,Junkers Jumo 205,,,160
+http://www.wikidata.org/entity/Q858769,North American A-5 Vigilante,http://www.wikidata.org/entity/Q631560,General Electric J79,,,158
+http://www.wikidata.org/entity/Q15838897,Beechcraft King Air A100,http://www.wikidata.org/entity/Q15623190,PT6A-28,,,157
+http://www.wikidata.org/entity/Q94859,Martin AM Mauler,http://www.wikidata.org/entity/Q15043481,R-4360-4 Wasp Major,,,151
+http://www.wikidata.org/entity/Q26225,De Havilland DH.110 Sea Vixen,http://www.wikidata.org/entity/Q2164321,Rolls-Royce Avon,,,151
+http://www.wikidata.org/entity/Q890209,Boeing P-26 Peashooter,http://www.wikidata.org/entity/Q1852043,R-1340 Wasp,,,151
+http://www.wikidata.org/entity/Q2825635,Aeromarine 39,http://www.wikidata.org/entity/Q5195974,Curtiss OXX,,,150
+http://www.wikidata.org/entity/Q2825635,Aeromarine 39,http://www.wikidata.org/entity/Q5642549,A-7,,,150
+http://www.wikidata.org/entity/Q391923,Ту-14,http://www.wikidata.org/entity/Q390219,ВК-1,,,150
+http://www.wikidata.org/entity/Q486066,Sukhoi Superjet 100,http://www.wikidata.org/entity/Q1078034,PowerJet SaM146,,,143
+http://www.wikidata.org/entity/Q486066,Sukhoi Superjet 100,http://www.wikidata.org/entity/Q1078034,PowerJet SaM146,,,143
+http://www.wikidata.org/entity/Q486066,Sukhoi Superjet 100,http://www.wikidata.org/entity/Q1078034,PowerJet SaM146,,,143
+http://www.wikidata.org/entity/Q486066,Sukhoi Superjet 100,http://www.wikidata.org/entity/Q1078034,PowerJet SaM146,,,143
+http://www.wikidata.org/entity/Q21024216,G.91T,http://www.wikidata.org/entity/Q21014445,Orpheus 803,12200,,142
+http://www.wikidata.org/entity/Q21024216,G.91T,http://www.wikidata.org/entity/Q21014445,Orpheus 803,40000,,142
+http://www.wikidata.org/entity/Q794491,Бе-12,http://www.wikidata.org/entity/Q3507563,АИ-20,,,140
+http://www.wikidata.org/entity/Q56881060,Dayton-Wright DH-4,http://www.wikidata.org/entity/Q1738041,Liberty L-12,19600,,140
+http://www.wikidata.org/entity/Q15838904,King Air B100,http://www.wikidata.org/entity/Q750992,TPE331,,,137
+http://www.wikidata.org/entity/Q15627786,Douglas DC-9-10,http://www.wikidata.org/entity/Q2107964,Pratt & Whitney JT8D,,,137
+http://www.wikidata.org/entity/Q976898,Вега,http://www.wikidata.org/entity/Q3238292,Shenyang J-5,15000,,132
+http://www.wikidata.org/entity/Q976898,Вега,http://www.wikidata.org/entity/Q3238292,Shenyang J-5,22000,,132
+http://www.wikidata.org/entity/Q15635084,McDonnell Douglas MD-81,http://www.wikidata.org/entity/Q2107964,Pratt & Whitney JT8D,,,132
+http://www.wikidata.org/entity/Q1867613,Lockheed Model 12 Electra Junior,http://www.wikidata.org/entity/Q1813047,Pratt & Whitney R-985,22900,,130
+http://www.wikidata.org/entity/Q539354,Percival Pembroke,http://www.wikidata.org/entity/Q106295716,Leonides Mark 127,22000,,128
+http://www.wikidata.org/entity/Q242806,Ми-28,http://www.wikidata.org/entity/Q656113,ТВ3-117,,,126
+http://www.wikidata.org/entity/Q2980751,NiD 52,http://www.wikidata.org/entity/Q15428003,Hispano-Suiza 12Hb,,,125
+http://www.wikidata.org/entity/Q598126,Бе-6,http://www.wikidata.org/entity/Q2451035,АШ-73,,,123
+http://www.wikidata.org/entity/Q607609,Антонов Ан-30,http://www.wikidata.org/entity/Q4053965,АИ-24,,,123
+http://www.wikidata.org/entity/Q714968,Martin B-10,http://www.wikidata.org/entity/Q15138536,R-1820-33 Cyclone 9,,,121
+http://www.wikidata.org/entity/Q572590,Ан-72,http://www.wikidata.org/entity/Q1516558,Д-36,,,121
+http://www.wikidata.org/entity/Q10538857,Saab J 32 Lansen,http://www.wikidata.org/entity/Q2164321,Rolls-Royce Avon,,,120
+http://www.wikidata.org/entity/Q599891,Convair B-58 Hustler,http://www.wikidata.org/entity/Q631560,General Electric J79,19500,,116
+http://www.wikidata.org/entity/Q774207,Westland Whirlwind,http://www.wikidata.org/entity/Q427574,Rolls-Royce Peregrine,,,116
+http://www.wikidata.org/entity/Q367809,Junkers G 24,http://www.wikidata.org/entity/Q6313900,L 2,,,115
+http://www.wikidata.org/entity/Q662271,Breguet Atlantic,http://www.wikidata.org/entity/Q426886,RB.109 Tyne,,,115
+http://www.wikidata.org/entity/Q367809,Junkers G 24,http://www.wikidata.org/entity/Q325868,Junkers L5,,,115
+http://www.wikidata.org/entity/Q403645,Aichi B7A Ryusei,http://www.wikidata.org/entity/Q2755067,Nakajima Homare,,,114
+http://www.wikidata.org/entity/Q15838789,King Air 65-90,http://www.wikidata.org/entity/Q15838795,PT6A-6,,,112
+http://www.wikidata.org/entity/Q210384,British Aerospace Sea Harrier,http://www.wikidata.org/entity/Q822439,Rolls-Royce Pegasus,16000,,111
+http://www.wikidata.org/entity/Q794582,Sud-Aviation SA.321 Super-Frelon,http://www.wikidata.org/entity/Q847984,Turbomeca Turmo,3150,,110
+http://www.wikidata.org/entity/Q381208,A.11,http://www.wikidata.org/entity/Q10839507,Walter W-IV,,,108
+http://www.wikidata.org/entity/Q62167,Ил-86,http://www.wikidata.org/entity/Q3199367,НК-86,11000,,106
+http://www.wikidata.org/entity/Q607229,Ан-10,http://www.wikidata.org/entity/Q15051324,AI-20K,10000,,104
+http://www.wikidata.org/entity/Q607229,Ан-10,http://www.wikidata.org/entity/Q15051289,Kuznetsov NK-4,10000,,104
+http://www.wikidata.org/entity/Q1410572,Fiat G.12,http://www.wikidata.org/entity/Q3744424,Fiat A.74,,,104
+http://www.wikidata.org/entity/Q607229,Ан-10,http://www.wikidata.org/entity/Q15051324,AI-20K,10000,,104
+http://www.wikidata.org/entity/Q607229,Ан-10,http://www.wikidata.org/entity/Q15051289,Kuznetsov NK-4,10000,,104
+http://www.wikidata.org/entity/Q607229,Ан-10,http://www.wikidata.org/entity/Q15051324,AI-20K,10000,,104
+http://www.wikidata.org/entity/Q607229,Ан-10,http://www.wikidata.org/entity/Q15051289,Kuznetsov NK-4,10000,,104
+http://www.wikidata.org/entity/Q677259,Heinkel He 114,http://www.wikidata.org/entity/Q796376,BMW 132,,,103
+http://www.wikidata.org/entity/Q887098,Blériot XI,http://www.wikidata.org/entity/Q1779063,piston engine,,,100
+http://www.wikidata.org/entity/Q218636,Rockwell B-1 Lancer,http://www.wikidata.org/entity/Q218657,General Electric F101,,,100
+http://www.wikidata.org/entity/Q17012539,Nieuport 14,http://www.wikidata.org/entity/Q14947601,Hispano-Suiza 8Aa,,,100
+http://www.wikidata.org/entity/Q137710,Heinkel He 112,http://www.wikidata.org/entity/Q15410979,Jumo 210Ga,,,98
+http://www.wikidata.org/entity/Q15838872,King Air C90GT,http://www.wikidata.org/entity/Q15838873,PT6A-135,,,97
+http://www.wikidata.org/entity/Q15838872,King Air C90GT,http://www.wikidata.org/entity/Q15838873,PT6A-135,,,97
+http://www.wikidata.org/entity/Q15627797,Douglas DC-9-40,http://www.wikidata.org/entity/Q2107964,Pratt & Whitney JT8D,,,96
+http://www.wikidata.org/entity/Q61356789,Praga E-241,http://www.wikidata.org/entity/Q15027305,Walter Pollux II-R,5700,,95
+http://www.wikidata.org/entity/Q61356789,Praga E-241,http://www.wikidata.org/entity/Q15027305,Walter Pollux II-R,5700,,95
+http://www.wikidata.org/entity/Q707868,Junkers Ju 388,http://www.wikidata.org/entity/Q796416,BMW 801,,,94
+http://www.wikidata.org/entity/Q182124,М-4,http://www.wikidata.org/entity/Q839981,АМ-3,,,93
+http://www.wikidata.org/entity/Q2324616,Hawker Nimrod,http://www.wikidata.org/entity/Q15139932,Kestrel VFP,,,92
+http://www.wikidata.org/entity/Q1153321,Mitsubishi T-2,http://www.wikidata.org/entity/Q1627278,RT.172 Adour,50025,,90
+http://www.wikidata.org/entity/Q15838874,King Air C90GTi,http://www.wikidata.org/entity/Q15838873,PT6A-135,,,90
+http://www.wikidata.org/entity/Q905380,Breguet Alizé,http://www.wikidata.org/entity/Q15733436,RB.53 Dart Mk.520,,,89
+http://www.wikidata.org/entity/Q15838892,Beechcraft King Air 100,http://www.wikidata.org/entity/Q309027,турбовинтовой двигатель,,,89
+http://www.wikidata.org/entity/Q15838893,King Air 100 base model,http://www.wikidata.org/entity/Q15623190,PT6A-28,,,89
+http://www.wikidata.org/entity/Q15838893,King Air 100 base model,http://www.wikidata.org/entity/Q15623190,PT6A-28,,,89
+http://www.wikidata.org/entity/Q431918,Грумман E-1 «Трейсер»,http://www.wikidata.org/entity/Q15015299,R-1820-82WA Cyclone 9,,,88
+http://www.wikidata.org/entity/Q15624044,Douglas DC-8 Series 50,http://www.wikidata.org/entity/Q2107961,Pratt & Whitney JT3D,,,88
+http://www.wikidata.org/entity/Q29006,Arado Ar 65,http://www.wikidata.org/entity/Q796760,BMW VI,7600,,85
+http://www.wikidata.org/entity/Q29006,Arado Ar 65,http://www.wikidata.org/entity/Q796760,BMW VI,24935,,85
+http://www.wikidata.org/entity/Q21086973,Airbus A310-200,http://www.wikidata.org/entity/Q21087093,JT9D-7R4,,,85
+http://www.wikidata.org/entity/Q1229113,Supermarine Southampton,http://www.wikidata.org/entity/Q15138447,Napier Lion V,,,83
+http://www.wikidata.org/entity/Q6496,Airbus A400M,http://www.wikidata.org/entity/Q1275666,Europrop TP400,11275,152400000,80
+http://www.wikidata.org/entity/Q6496,Airbus A400M,http://www.wikidata.org/entity/Q1275666,Europrop TP400,37000,152400000,80
+http://www.wikidata.org/entity/Q381225,A.30,http://www.wikidata.org/entity/Q15011646,Škoda L,,,79
+http://www.wikidata.org/entity/Q18129663,HO4S-3,http://www.wikidata.org/entity/Q59742,R-1300 Cyclone 7,,,79
+http://www.wikidata.org/entity/Q3687454,Consolidated P2Y,http://www.wikidata.org/entity/Q1078024,R-1820 Cyclone 9,,,78
+http://www.wikidata.org/entity/Q12016755,4-AT Trimotor,http://www.wikidata.org/entity/Q1461777,Whirlwind,,,78
+http://www.wikidata.org/entity/Q670325,Hansa-Brandenburg W.29,http://www.wikidata.org/entity/Q818446,Benz Bz.III,,,78
+http://www.wikidata.org/entity/Q670325,Hansa-Brandenburg W.29,http://www.wikidata.org/entity/Q818446,Benz Bz.III,,,78
+http://www.wikidata.org/entity/Q586146,Boeing C-97 Stratofreighter,http://www.wikidata.org/entity/Q2107993,Pratt & Whitney R-4360,,,77
+http://www.wikidata.org/entity/Q466590,Ту-204,http://www.wikidata.org/entity/Q1636078,Rolls-Royce RB211,,,76
+http://www.wikidata.org/entity/Q466590,Ту-204,http://www.wikidata.org/entity/Q615977,ПС-90А,,,76
+http://www.wikidata.org/entity/Q637726,ПС-9,http://www.wikidata.org/entity/Q15921165,R-975 Whirlwind,4500,,75
+http://www.wikidata.org/entity/Q637726,ПС-9,http://www.wikidata.org/entity/Q4053967,АИ-26,4500,,75
+http://www.wikidata.org/entity/Q637726,ПС-9,http://www.wikidata.org/entity/Q2389899,М-17,4500,,75
+http://www.wikidata.org/entity/Q637726,ПС-9,http://www.wikidata.org/entity/Q1158698,Bristol Titan,4500,,75
+http://www.wikidata.org/entity/Q637726,ПС-9,http://www.wikidata.org/entity/Q15921165,R-975 Whirlwind,4500,,75
+http://www.wikidata.org/entity/Q637726,ПС-9,http://www.wikidata.org/entity/Q4053967,АИ-26,4500,,75
+http://www.wikidata.org/entity/Q637726,ПС-9,http://www.wikidata.org/entity/Q2389899,М-17,4500,,75
+http://www.wikidata.org/entity/Q637726,ПС-9,http://www.wikidata.org/entity/Q1158698,Bristol Titan,4500,,75
+http://www.wikidata.org/entity/Q689384,Armstrong Whitworth Argosy,http://www.wikidata.org/entity/Q450478,RB.53 Dart,,,74
+http://www.wikidata.org/entity/Q18379942,Boeing 707-320 Intercontinental,http://www.wikidata.org/entity/Q15624026,JT4A-3,,,69
+http://www.wikidata.org/entity/Q261384,Boeing E-3 Sentry,http://www.wikidata.org/entity/Q101142300,TF33-PW-100A,8788,,68
+http://www.wikidata.org/entity/Q261384,Boeing E-3 Sentry,http://www.wikidata.org/entity/Q101142300,TF33-PW-100A,29000,,68
+http://www.wikidata.org/entity/Q607444,Ан-22,http://www.wikidata.org/entity/Q15052152,Kuznetsov NK-12MA,,,68
+http://www.wikidata.org/entity/Q754180,Дассо «Мираж» IV,http://www.wikidata.org/entity/Q923665,Atar,,,66
+http://www.wikidata.org/entity/Q1473120,Fuji T-1,http://www.wikidata.org/entity/Q1188337,Ishikawajima-Harima J3,,,66
+http://www.wikidata.org/entity/Q398999,Агуста А129 «Мангуста»,http://www.wikidata.org/entity/Q3940376,Gem,,,66
+http://www.wikidata.org/entity/Q1473120,Fuji T-1,http://www.wikidata.org/entity/Q68557,Orpheus,,,66
+http://www.wikidata.org/entity/Q868963,Convair CV-880,http://www.wikidata.org/entity/Q17364058,General Electric CJ805-3,,,65
+http://www.wikidata.org/entity/Q819076,Junkers Ju 290,http://www.wikidata.org/entity/Q630010,поршневой двигатель внутреннего сгорания,6000,,65
+http://www.wikidata.org/entity/Q184491,Lockheed F-117 Nighthawk,http://www.wikidata.org/entity/Q947434,General Electric F404,13700,,64
+http://www.wikidata.org/entity/Q9177196,Bombardier CRJ-1000,http://www.wikidata.org/entity/Q1501603,General Electric CF34,12500,,63
+http://www.wikidata.org/entity/Q6534939,Levasseur PL.10,http://www.wikidata.org/entity/Q29068,Hispano-Suiza,,,63
+http://www.wikidata.org/entity/Q1136382,Saab 2000,http://www.wikidata.org/entity/Q15831051,Rolls-Royce AE 2100A,,,63
+http://www.wikidata.org/entity/Q1136382,Saab 2000,http://www.wikidata.org/entity/Q15831051,Rolls-Royce AE 2100A,,,63
+http://www.wikidata.org/entity/Q659934,Bartel BM-5,http://www.wikidata.org/entity/Q8038252,R-790 Whirlwind,,,62
+http://www.wikidata.org/entity/Q659934,Bartel BM-5,http://www.wikidata.org/entity/Q15024795,Hispano-Suiza 8Fb,,,62
+http://www.wikidata.org/entity/Q659934,Bartel BM-5,http://www.wikidata.org/entity/Q783801,Austro-Daimler 6,,,62
+http://www.wikidata.org/entity/Q659934,Bartel BM-5,http://www.wikidata.org/entity/Q594355,Società Piemontese Automobili,,,62
+http://www.wikidata.org/entity/Q659934,Bartel BM-5,http://www.wikidata.org/entity/Q8038252,R-790 Whirlwind,,,62
+http://www.wikidata.org/entity/Q659934,Bartel BM-5,http://www.wikidata.org/entity/Q15024795,Hispano-Suiza 8Fb,,,62
+http://www.wikidata.org/entity/Q659934,Bartel BM-5,http://www.wikidata.org/entity/Q783801,Austro-Daimler 6,,,62
+http://www.wikidata.org/entity/Q659934,Bartel BM-5,http://www.wikidata.org/entity/Q594355,Società Piemontese Automobili,,,62
+http://www.wikidata.org/entity/Q659934,Bartel BM-5,http://www.wikidata.org/entity/Q8038252,R-790 Whirlwind,,,62
+http://www.wikidata.org/entity/Q659934,Bartel BM-5,http://www.wikidata.org/entity/Q15024795,Hispano-Suiza 8Fb,,,62
+http://www.wikidata.org/entity/Q659934,Bartel BM-5,http://www.wikidata.org/entity/Q783801,Austro-Daimler 6,,,62
+http://www.wikidata.org/entity/Q659934,Bartel BM-5,http://www.wikidata.org/entity/Q594355,Società Piemontese Automobili,,,62
+http://www.wikidata.org/entity/Q112324201,Q112324201,http://www.wikidata.org/entity/Q1138418,Mercedes D.III,,,61
+http://www.wikidata.org/entity/Q112324201,Q112324201,http://www.wikidata.org/entity/Q1138418,Mercedes D.III,,,61
+http://www.wikidata.org/entity/Q421602,Consolidated P-30,http://www.wikidata.org/entity/Q113246301,V-1570-61 Conqueror,,,60
+http://www.wikidata.org/entity/Q421602,Consolidated P-30,http://www.wikidata.org/entity/Q113246288,V-1570-57 Conqueror,,,60
+http://www.wikidata.org/entity/Q421602,Consolidated P-30,http://www.wikidata.org/entity/Q113246211,V-1570-27 Conqueror,,,60
+http://www.wikidata.org/entity/Q18248779,C-95 Bandeirante,http://www.wikidata.org/entity/Q15637500,PT6A-27,27950,,60
+http://www.wikidata.org/entity/Q163838,Ильюшин Ил-38,http://www.wikidata.org/entity/Q3507563,АИ-20,,,58
+http://www.wikidata.org/entity/Q4936121,Boeing 707-120,http://www.wikidata.org/entity/Q15624018,JT3C-6,,,56
+http://www.wikidata.org/entity/Q5275178,Dietrich DP.II,http://www.wikidata.org/entity/Q3960204,Siemens-Halske Sh 4,,,56
+http://www.wikidata.org/entity/Q5275178,Dietrich DP.II,http://www.wikidata.org/entity/Q3960202,Siemens & Halske Sh 12,,,56
+http://www.wikidata.org/entity/Q5275178,Dietrich DP.II,http://www.wikidata.org/entity/Q3960201,Siemens-Halske Sh 11,,,56
+http://www.wikidata.org/entity/Q5275178,Dietrich DP.II,http://www.wikidata.org/entity/Q917172,Siemens & Halske Sh 14,,,56
+http://www.wikidata.org/entity/Q5275178,Dietrich DP.II,http://www.wikidata.org/entity/Q3960204,Siemens-Halske Sh 4,,,56
+http://www.wikidata.org/entity/Q5275178,Dietrich DP.II,http://www.wikidata.org/entity/Q3960202,Siemens & Halske Sh 12,,,56
+http://www.wikidata.org/entity/Q5275178,Dietrich DP.II,http://www.wikidata.org/entity/Q3960201,Siemens-Halske Sh 11,,,56
+http://www.wikidata.org/entity/Q5275178,Dietrich DP.II,http://www.wikidata.org/entity/Q917172,Siemens & Halske Sh 14,,,56
+http://www.wikidata.org/entity/Q5275178,Dietrich DP.II,http://www.wikidata.org/entity/Q3960204,Siemens-Halske Sh 4,,,56
+http://www.wikidata.org/entity/Q5275178,Dietrich DP.II,http://www.wikidata.org/entity/Q3960202,Siemens & Halske Sh 12,,,56
+http://www.wikidata.org/entity/Q5275178,Dietrich DP.II,http://www.wikidata.org/entity/Q3960201,Siemens-Halske Sh 11,,,56
+http://www.wikidata.org/entity/Q5275178,Dietrich DP.II,http://www.wikidata.org/entity/Q917172,Siemens & Halske Sh 14,,,56
+http://www.wikidata.org/entity/Q5275178,Dietrich DP.II,http://www.wikidata.org/entity/Q3960204,Siemens-Halske Sh 4,,,56
+http://www.wikidata.org/entity/Q5275178,Dietrich DP.II,http://www.wikidata.org/entity/Q3960202,Siemens & Halske Sh 12,,,56
+http://www.wikidata.org/entity/Q5275178,Dietrich DP.II,http://www.wikidata.org/entity/Q3960201,Siemens-Halske Sh 11,,,56
+http://www.wikidata.org/entity/Q5275178,Dietrich DP.II,http://www.wikidata.org/entity/Q917172,Siemens & Halske Sh 14,,,56
+http://www.wikidata.org/entity/Q6492,Airbus A330 MRTT,http://www.wikidata.org/entity/Q9070485,Rolls-Royce Trent 700,12600,,55
+http://www.wikidata.org/entity/Q842257,Ми-10,http://www.wikidata.org/entity/Q1095278,Д-25,,,55
+http://www.wikidata.org/entity/Q6492,Airbus A330 MRTT,http://www.wikidata.org/entity/Q1501579,General Electric CF6,12600,,55
+http://www.wikidata.org/entity/Q6492,Airbus A330 MRTT,http://www.wikidata.org/entity/Q128862,Pratt & Whitney PW4000,12600,,55
+http://www.wikidata.org/entity/Q193487,Ан-124,http://www.wikidata.org/entity/Q287488,Д-18Т,,,55
+http://www.wikidata.org/entity/Q2720258,AC-47 Spooky,http://www.wikidata.org/entity/Q2092558,Pratt & Whitney R-1830 Twin Wasp,,,53
+http://www.wikidata.org/entity/Q15623378,Boeing 737-900,http://www.wikidata.org/entity/Q15623367,CFM International CFM56-7,,,52
+http://www.wikidata.org/entity/Q128993,Hawker Siddeley Nimrod,http://www.wikidata.org/entity/Q1456848,Rolls-Royce Spey,,,51
+http://www.wikidata.org/entity/Q2825639,Aeromarine 40,http://www.wikidata.org/entity/Q5195974,Curtiss OXX,,,50
+http://www.wikidata.org/entity/Q723397,Fokker 70,http://www.wikidata.org/entity/Q1456020,Rolls-Royce RB.183 Tay,10668,,48
+http://www.wikidata.org/entity/Q15116570,Pfalz E.I-VI,http://www.wikidata.org/entity/Q3046516,Le Rhône 9C,,,46
+http://www.wikidata.org/entity/Q19204641,FB,http://www.wikidata.org/entity/Q245272,V12,,,44
+http://www.wikidata.org/entity/Q670802,Cerva CE.43 Guépard,http://www.wikidata.org/entity/Q20798130,IO-540-C4B5,,,43
+http://www.wikidata.org/entity/Q2223697,Be-50 Beta-Minor,http://www.wikidata.org/entity/Q61728073,Walter Minor 4,,,43
+http://www.wikidata.org/entity/Q5204316,DAR 9 Siniger,http://www.wikidata.org/entity/Q2545555,Walter Minor,4400,,42
+http://www.wikidata.org/entity/Q5204316,DAR 9 Siniger,http://www.wikidata.org/entity/Q2545555,Walter Minor,14436,,42
+http://www.wikidata.org/entity/Q5204316,DAR 9 Siniger,http://www.wikidata.org/entity/Q917172,Siemens & Halske Sh 14,4400,,42
+http://www.wikidata.org/entity/Q5204316,DAR 9 Siniger,http://www.wikidata.org/entity/Q917172,Siemens & Halske Sh 14,14436,,42
+http://www.wikidata.org/entity/Q638348,Albatros L 75 Ass,http://www.wikidata.org/entity/Q47086764,BMW Va,,,41
+http://www.wikidata.org/entity/Q672123,Junkers D.I,http://www.wikidata.org/entity/Q796517,BMW IIIa,19685,,41
+http://www.wikidata.org/entity/Q17978655,Regente 420L,http://www.wikidata.org/entity/Q15896396,IO-360-D,15810,,40
+http://www.wikidata.org/entity/Q698235,Saab 105,http://www.wikidata.org/entity/Q7853906,Turbomeca Aubisque,,,40
+http://www.wikidata.org/entity/Q698235,Saab 105,http://www.wikidata.org/entity/Q1501589,General Electric J85,,,40
+http://www.wikidata.org/entity/Q698235,Saab 105,http://www.wikidata.org/entity/Q910258,Williams FJ44,,,40
+http://www.wikidata.org/entity/Q499185,А-50,http://www.wikidata.org/entity/Q615977,ПС-90А,12000,,40
+http://www.wikidata.org/entity/Q103722222,Convair CV-600,http://www.wikidata.org/entity/Q450478,RB.53 Dart,,,39
+http://www.wikidata.org/entity/Q103722222,Convair CV-600,http://www.wikidata.org/entity/Q450478,RB.53 Dart,,,39
+http://www.wikidata.org/entity/Q167286,Do 335 Pfeil,http://www.wikidata.org/entity/Q1157612,Daimler-Benz DB 603,,,38
+http://www.wikidata.org/entity/Q18379948,Boeing 707-420,http://www.wikidata.org/entity/Q18379957,RB.80 Conway Mk.508,,,37
+http://www.wikidata.org/entity/Q5495841,Lübeck-Travemunde F 4,http://www.wikidata.org/entity/Q3638393,Benz Bz.IV,,,34
+http://www.wikidata.org/entity/Q5495841,Lübeck-Travemunde F 4,http://www.wikidata.org/entity/Q3638393,Benz Bz.IV,,,34
+http://www.wikidata.org/entity/Q726957,Canadair CP-107 Argus,http://www.wikidata.org/entity/Q786848,R-3350 Duplex Cyclone,,,33
+http://www.wikidata.org/entity/Q15624029,Douglas DC-8 Series 40,http://www.wikidata.org/entity/Q15624042,RB.80 Conway Mk.509,,,32
+http://www.wikidata.org/entity/Q616158,Ту-114,http://www.wikidata.org/entity/Q977186,НК-12,,,32
+http://www.wikidata.org/entity/Q616158,Ту-114,http://www.wikidata.org/entity/Q977186,НК-12,,,32
+http://www.wikidata.org/entity/Q381152,Valmet L-90 Redigo,http://www.wikidata.org/entity/Q1780801,Allison 250,,,31
+http://www.wikidata.org/entity/Q381152,Valmet L-90 Redigo,http://www.wikidata.org/entity/Q309027,турбовинтовой двигатель,,,31
+http://www.wikidata.org/entity/Q1737305,Kawasaki C-1,http://www.wikidata.org/entity/Q106296134,Pratt & Whitney JT8D-9,39375,,31
+http://www.wikidata.org/entity/Q381152,Valmet L-90 Redigo,http://www.wikidata.org/entity/Q1780801,Allison 250,,,31
+http://www.wikidata.org/entity/Q381152,Valmet L-90 Redigo,http://www.wikidata.org/entity/Q309027,турбовинтовой двигатель,,,31
+http://www.wikidata.org/entity/Q2301351,Fokker T.IV,http://www.wikidata.org/entity/Q15155608,SR-1820-F2 Cyclone,,,30
+http://www.wikidata.org/entity/Q1245842,Dornier Do 22,http://www.wikidata.org/entity/Q254293,Hispano-Suiza 12Y,,,30
+http://www.wikidata.org/entity/Q15623261,Boeing 737-100,http://www.wikidata.org/entity/Q2107964,Pratt & Whitney JT8D,,,30
+http://www.wikidata.org/entity/Q2301351,Fokker T.IV,http://www.wikidata.org/entity/Q254293,Hispano-Suiza 12Y,,,30
+http://www.wikidata.org/entity/Q16550553,Dornier Do D,http://www.wikidata.org/entity/Q47485657,BMW VIU,,,29
+http://www.wikidata.org/entity/Q190114,Lockheed SR-71 Blackbird,http://www.wikidata.org/entity/Q2004495,Pratt & Whitney J58-P4,25908,34000000,29
+http://www.wikidata.org/entity/Q190114,Lockheed SR-71 Blackbird,http://www.wikidata.org/entity/Q2004495,Pratt & Whitney J58-P4,25929,34000000,29
+http://www.wikidata.org/entity/Q16550553,Dornier Do D,http://www.wikidata.org/entity/Q796760,BMW VI,,,29
+http://www.wikidata.org/entity/Q16550553,Dornier Do D,http://www.wikidata.org/entity/Q15105362,Rolls-Royce Eagle IX,,,29
+http://www.wikidata.org/entity/Q607604,Ан-3,http://www.wikidata.org/entity/Q1410423,ТВД-10,,,25
+http://www.wikidata.org/entity/Q607604,Ан-3,http://www.wikidata.org/entity/Q1410423,ТВД-10,,,25
+http://www.wikidata.org/entity/Q607604,Ан-3,http://www.wikidata.org/entity/Q1410423,ТВД-10,,,25
+http://www.wikidata.org/entity/Q607604,Ан-3,http://www.wikidata.org/entity/Q1410423,ТВД-10,,,25
+http://www.wikidata.org/entity/Q1520239,Piaggio PD.808,http://www.wikidata.org/entity/Q106296938,Viper Mk.526,13700,,24
+http://www.wikidata.org/entity/Q1520239,Piaggio PD.808,http://www.wikidata.org/entity/Q106296938,Viper Mk.526,45000,,24
+http://www.wikidata.org/entity/Q21819909,Raab-Katzenstein RK 2,http://www.wikidata.org/entity/Q3960202,Siemens & Halske Sh 12,,,24
+http://www.wikidata.org/entity/Q21819909,Raab-Katzenstein RK 2,http://www.wikidata.org/entity/Q3960201,Siemens-Halske Sh 11,,,24
+http://www.wikidata.org/entity/Q21819909,Raab-Katzenstein RK 2,http://www.wikidata.org/entity/Q3960202,Siemens & Halske Sh 12,,,24
+http://www.wikidata.org/entity/Q21819909,Raab-Katzenstein RK 2,http://www.wikidata.org/entity/Q3960201,Siemens-Halske Sh 11,,,24
+http://www.wikidata.org/entity/Q10648255,Raab-Katzenstein RK.9 Grasmücke,http://www.wikidata.org/entity/Q4778440,Anzani 3-cylinder fan engines,,,24
+http://www.wikidata.org/entity/Q21819909,Raab-Katzenstein RK 2,http://www.wikidata.org/entity/Q3960202,Siemens & Halske Sh 12,,,24
+http://www.wikidata.org/entity/Q21819909,Raab-Katzenstein RK 2,http://www.wikidata.org/entity/Q3960201,Siemens-Halske Sh 11,,,24
+http://www.wikidata.org/entity/Q10648255,Raab-Katzenstein RK.9 Grasmücke,http://www.wikidata.org/entity/Q4778440,Anzani 3-cylinder fan engines,,,24
+http://www.wikidata.org/entity/Q21819909,Raab-Katzenstein RK 2,http://www.wikidata.org/entity/Q3960202,Siemens & Halske Sh 12,,,24
+http://www.wikidata.org/entity/Q21819909,Raab-Katzenstein RK 2,http://www.wikidata.org/entity/Q3960201,Siemens-Halske Sh 11,,,24
+http://www.wikidata.org/entity/Q658682,CASA C-207 Azor,http://www.wikidata.org/entity/Q106295762,Hercules 730,26250,,22
+http://www.wikidata.org/entity/Q180285,Northrop B-2 Spirit,http://www.wikidata.org/entity/Q1124739,General Electric F118,,,21
+http://www.wikidata.org/entity/Q1658665,Ил-20,http://www.wikidata.org/entity/Q15051327,AI-20M,,,20
+http://www.wikidata.org/entity/Q381216,A.18,http://www.wikidata.org/entity/Q796517,BMW IIIa,,,20
+http://www.wikidata.org/entity/Q4033022,ANBO-41,http://www.wikidata.org/entity/Q917964,Bristol Pegasus,,,19
+http://www.wikidata.org/entity/Q4033022,ANBO-41,http://www.wikidata.org/entity/Q917964,Bristol Pegasus,,,19
+http://www.wikidata.org/entity/Q700131,Junkers Ju 90,http://www.wikidata.org/entity/Q796376,BMW 132,5750,,18
+http://www.wikidata.org/entity/Q2830834,L 68 Alauda,http://www.wikidata.org/entity/Q3960202,Siemens & Halske Sh 12,,,18
+http://www.wikidata.org/entity/Q2830834,L 68 Alauda,http://www.wikidata.org/entity/Q3960201,Siemens-Halske Sh 11,,,18
+http://www.wikidata.org/entity/Q2830834,L 68 Alauda,http://www.wikidata.org/entity/Q689344,Armstrong Siddeley Lynx,,,18
+http://www.wikidata.org/entity/Q2830834,L 68 Alauda,http://www.wikidata.org/entity/Q3960202,Siemens & Halske Sh 12,,,18
+http://www.wikidata.org/entity/Q2830834,L 68 Alauda,http://www.wikidata.org/entity/Q3960201,Siemens-Halske Sh 11,,,18
+http://www.wikidata.org/entity/Q2830834,L 68 Alauda,http://www.wikidata.org/entity/Q689344,Armstrong Siddeley Lynx,,,18
+http://www.wikidata.org/entity/Q314114,Junkers K 16,http://www.wikidata.org/entity/Q1770785,Walter NZ 120,,,17
+http://www.wikidata.org/entity/Q314114,Junkers K 16,http://www.wikidata.org/entity/Q3960206,Siemens-Halske Sh 5,,,17
+http://www.wikidata.org/entity/Q314114,Junkers K 16,http://www.wikidata.org/entity/Q3960204,Siemens-Halske Sh 4,,,17
+http://www.wikidata.org/entity/Q314114,Junkers K 16,http://www.wikidata.org/entity/Q3960202,Siemens & Halske Sh 12,,,17
+http://www.wikidata.org/entity/Q919426,Piaggio P.6,http://www.wikidata.org/entity/Q3744414,Fiat A.20,,,17
+http://www.wikidata.org/entity/Q919426,Piaggio P.6,http://www.wikidata.org/entity/Q3744414,Fiat A.20,,,17
+http://www.wikidata.org/entity/Q269250,Ка-50,http://www.wikidata.org/entity/Q656113,ТВ3-117,,,16
+http://www.wikidata.org/entity/Q670851,Ка-10,http://www.wikidata.org/entity/Q3269254,flat-four,,,15
+http://www.wikidata.org/entity/Q670851,Ка-10,http://www.wikidata.org/entity/Q4053968,АИ-4Г (АИ-4В),,,15
+http://www.wikidata.org/entity/Q646171,Junkers Ju 252,http://www.wikidata.org/entity/Q699433,Junkers Jumo 211,,,15
+http://www.wikidata.org/entity/Q646171,Junkers Ju 252,http://www.wikidata.org/entity/Q699433,Junkers Jumo 211,,,15
+http://www.wikidata.org/entity/Q1393173,Fairey Hendon,http://www.wikidata.org/entity/Q15427052,Kestrel VI,,,14
+http://www.wikidata.org/entity/Q3601693,Arado SC I,http://www.wikidata.org/entity/Q796512,BMW IV,,,14
+http://www.wikidata.org/entity/Q17861863,P.166DL3,http://www.wikidata.org/entity/Q17861788,LTP101-600,,,14
+http://www.wikidata.org/entity/Q1050339,de Havilland Flamingo,http://www.wikidata.org/entity/Q3644972,Bristol Perseus,,,14
+http://www.wikidata.org/entity/Q63148432,Q63148432,http://www.wikidata.org/entity/Q3638393,Benz Bz.IV,,,14
+http://www.wikidata.org/entity/Q112334873,Q112334873,http://www.wikidata.org/entity/Q3638393,Benz Bz.IV,,,14
+http://www.wikidata.org/entity/Q63148432,Q63148432,http://www.wikidata.org/entity/Q3638393,Benz Bz.IV,,,14
+http://www.wikidata.org/entity/Q112334873,Q112334873,http://www.wikidata.org/entity/Q3638393,Benz Bz.IV,,,14
+http://www.wikidata.org/entity/Q28132,WM-10 Ölyv,http://www.wikidata.org/entity/Q3960202,Siemens & Halske Sh 12,,,14
+http://www.wikidata.org/entity/Q28132,WM-10 Ölyv,http://www.wikidata.org/entity/Q3960202,Siemens & Halske Sh 12,,,14
+http://www.wikidata.org/entity/Q6430616,Koolhoven F.K.46,http://www.wikidata.org/entity/Q61728073,Walter Minor 4,,,13
+http://www.wikidata.org/entity/Q6430616,Koolhoven F.K.46,http://www.wikidata.org/entity/Q905371,De Havilland Gipsy,,,13
+http://www.wikidata.org/entity/Q60677741,DKW Erla Me 5a,http://www.wikidata.org/entity/Q639268,DKW,,,13
+http://www.wikidata.org/entity/Q60677741,DKW Erla Me 5a,http://www.wikidata.org/entity/Q248152,Zündapp 9-092,,,13
+http://www.wikidata.org/entity/Q6430616,Koolhoven F.K.46,http://www.wikidata.org/entity/Q61728073,Walter Minor 4,,,13
+http://www.wikidata.org/entity/Q6430616,Koolhoven F.K.46,http://www.wikidata.org/entity/Q905371,De Havilland Gipsy,,,13
+http://www.wikidata.org/entity/Q60677741,DKW Erla Me 5a,http://www.wikidata.org/entity/Q639268,DKW,,,13
+http://www.wikidata.org/entity/Q60677741,DKW Erla Me 5a,http://www.wikidata.org/entity/Q248152,Zündapp 9-092,,,13
+http://www.wikidata.org/entity/Q60677741,DKW Erla Me 5a,http://www.wikidata.org/entity/Q639268,DKW,,,13
+http://www.wikidata.org/entity/Q60677741,DKW Erla Me 5a,http://www.wikidata.org/entity/Q248152,Zündapp 9-092,,,13
+http://www.wikidata.org/entity/Q60677741,DKW Erla Me 5a,http://www.wikidata.org/entity/Q639268,DKW,,,13
+http://www.wikidata.org/entity/Q60677741,DKW Erla Me 5a,http://www.wikidata.org/entity/Q248152,Zündapp 9-092,,,13
+http://www.wikidata.org/entity/Q60677741,DKW Erla Me 5a,http://www.wikidata.org/entity/Q639268,DKW,,,13
+http://www.wikidata.org/entity/Q60677741,DKW Erla Me 5a,http://www.wikidata.org/entity/Q248152,Zündapp 9-092,,,13
+http://www.wikidata.org/entity/Q60677741,DKW Erla Me 5a,http://www.wikidata.org/entity/Q639268,DKW,,,13
+http://www.wikidata.org/entity/Q60677741,DKW Erla Me 5a,http://www.wikidata.org/entity/Q248152,Zündapp 9-092,,,13
+http://www.wikidata.org/entity/Q890166,Boeing 314,http://www.wikidata.org/entity/Q1659797,R-2600 Twin Cyclone,6000,,12
+http://www.wikidata.org/entity/Q2531405,SAI.207,http://www.wikidata.org/entity/Q3803334,Isotta Fraschini Delta,,,12
+http://www.wikidata.org/entity/Q6457731,LFG V 13,http://www.wikidata.org/entity/Q3638393,Benz Bz.IV,,,12
+http://www.wikidata.org/entity/Q6457731,LFG V 13,http://www.wikidata.org/entity/Q818446,Benz Bz.III,,,12
+http://www.wikidata.org/entity/Q6457731,LFG V 13,http://www.wikidata.org/entity/Q3638393,Benz Bz.IV,,,12
+http://www.wikidata.org/entity/Q6457731,LFG V 13,http://www.wikidata.org/entity/Q818446,Benz Bz.III,,,12
+http://www.wikidata.org/entity/Q3602984,Arado SC II,http://www.wikidata.org/entity/Q3632115,BMW V,,,11
+http://www.wikidata.org/entity/Q905699,АНТ-35,http://www.wikidata.org/entity/Q669734,АШ-62,,,11
+http://www.wikidata.org/entity/Q905699,АНТ-35,http://www.wikidata.org/entity/Q669734,АШ-62,,,11
+http://www.wikidata.org/entity/Q5442411,Felixstowe Porte Baby,http://www.wikidata.org/entity/Q2164330,Rolls-Royce Eagle,,,11
+http://www.wikidata.org/entity/Q5442411,Felixstowe Porte Baby,http://www.wikidata.org/entity/Q2164330,Rolls-Royce Eagle,,,11
+http://www.wikidata.org/entity/Q194455,Перспективный авиационный комплекс фронтовой авиации,http://www.wikidata.org/entity/Q1567667,АЛ-41Ф,20000,,10
+http://www.wikidata.org/entity/Q677960,Бе-30,http://www.wikidata.org/entity/Q2061540,Pratt & Whitney Canada PT6,,,8
+http://www.wikidata.org/entity/Q677960,Бе-30,http://www.wikidata.org/entity/Q1410423,ТВД-10,,,8
+http://www.wikidata.org/entity/Q677960,Бе-30,http://www.wikidata.org/entity/Q542975,АШ-21,,,8
+http://www.wikidata.org/entity/Q125461601,Raab-Katzenstein RK 8,http://www.wikidata.org/entity/Q3638393,Benz Bz.IV,,,8
+http://www.wikidata.org/entity/Q125461601,Raab-Katzenstein RK 8,http://www.wikidata.org/entity/Q3638393,Benz Bz.IV,,,8
+http://www.wikidata.org/entity/Q348525,Adam А500,http://www.wikidata.org/entity/Q29443370,TSIO-550E,25000,,7
+http://www.wikidata.org/entity/Q1050894,De Havilland Albatross,http://www.wikidata.org/entity/Q1052086,De Havilland Gipsy Twelve,17900,,7
+http://www.wikidata.org/entity/Q220529,МиГ-35,http://www.wikidata.org/entity/Q1193142,РД-33,17500,,6
+http://www.wikidata.org/entity/Q766294,Do 26,http://www.wikidata.org/entity/Q529545,Junkers Jumo 205,,,6
+http://www.wikidata.org/entity/Q39723,М-55,http://www.wikidata.org/entity/Q1049409,Д-30,,,5
+http://www.wikidata.org/entity/Q18379891,Boeing 707-220,http://www.wikidata.org/entity/Q15624026,JT4A-3,,,5
+http://www.wikidata.org/entity/Q381200,Aero A.10,http://www.wikidata.org/entity/Q3853166,Maybach Mb.IVa,5800,,5
+http://www.wikidata.org/entity/Q381200,Aero A.10,http://www.wikidata.org/entity/Q3853166,Maybach Mb.IVa,19029,,5
+http://www.wikidata.org/entity/Q125047049,"Dornier CS I,II Delphin",http://www.wikidata.org/entity/Q796517,BMW IIIa,,,5
+http://www.wikidata.org/entity/Q125047049,"Dornier CS I,II Delphin",http://www.wikidata.org/entity/Q796517,BMW IIIa,,,5
+http://www.wikidata.org/entity/Q17112645,LFG V 60,http://www.wikidata.org/entity/Q796512,BMW IV,,,5
+http://www.wikidata.org/entity/Q17112645,LFG V 60,http://www.wikidata.org/entity/Q796512,BMW IV,,,5
+http://www.wikidata.org/entity/Q180580,A 32 Bussard,http://www.wikidata.org/entity/Q325868,Junkers L5,,,5
+http://www.wikidata.org/entity/Q180580,A 32 Bussard,http://www.wikidata.org/entity/Q325868,Junkers L5,,,5
+http://www.wikidata.org/entity/Q124835002,Q124835002,http://www.wikidata.org/entity/Q2861087,Argus As II,,,5
+http://www.wikidata.org/entity/Q125047049,"Dornier CS I,II Delphin",http://www.wikidata.org/entity/Q796517,BMW IIIa,,,5
+http://www.wikidata.org/entity/Q124835002,Q124835002,http://www.wikidata.org/entity/Q2861087,Argus As II,,,5
+http://www.wikidata.org/entity/Q125047049,"Dornier CS I,II Delphin",http://www.wikidata.org/entity/Q796517,BMW IIIa,,,5
+http://www.wikidata.org/entity/Q16563012,Heinkel HD 41,http://www.wikidata.org/entity/Q15011793,Jupiter VI,,,4
+http://www.wikidata.org/entity/Q16563012,Heinkel HD 41,http://www.wikidata.org/entity/Q796760,BMW VI,,,4
+http://www.wikidata.org/entity/Q1723250,Ка-22,http://www.wikidata.org/entity/Q1095278,Д-25,,,4
+http://www.wikidata.org/entity/Q1723250,Ка-22,http://www.wikidata.org/entity/Q1095278,Д-25,,,4
+http://www.wikidata.org/entity/Q5463875,Focke-Wulf A 20,http://www.wikidata.org/entity/Q8038252,R-790 Whirlwind,,,4
+http://www.wikidata.org/entity/Q5463875,Focke-Wulf A 20,http://www.wikidata.org/entity/Q1158698,Bristol Titan,,,4
+http://www.wikidata.org/entity/Q5463875,Focke-Wulf A 20,http://www.wikidata.org/entity/Q8038252,R-790 Whirlwind,,,4
+http://www.wikidata.org/entity/Q5463875,Focke-Wulf A 20,http://www.wikidata.org/entity/Q1158698,Bristol Titan,,,4
+http://www.wikidata.org/entity/Q5008678,CAMS 51,http://www.wikidata.org/entity/Q15138524,Gnome-Rhône 9A Jupiter,,,3
+http://www.wikidata.org/entity/Q323332,Arado Ar 195,http://www.wikidata.org/entity/Q796376,BMW 132,,,3
+http://www.wikidata.org/entity/Q573039,Focke-Wulf Fw 159,http://www.wikidata.org/entity/Q564413,Jumo 210,,,3
+http://www.wikidata.org/entity/Q573039,Focke-Wulf Fw 159,http://www.wikidata.org/entity/Q564413,Jumo 210,,,3
+http://www.wikidata.org/entity/Q5699816,Heinkel HD 40,http://www.wikidata.org/entity/Q796760,BMW VI,,,3
+http://www.wikidata.org/entity/Q5699816,Heinkel HD 40,http://www.wikidata.org/entity/Q796760,BMW VI,,,3
+http://www.wikidata.org/entity/Q180234,A 33 Sperber,http://www.wikidata.org/entity/Q59186,Walter Aircraft Engines,,,3
+http://www.wikidata.org/entity/Q5463879,Focke-Wulf GL 18,http://www.wikidata.org/entity/Q3960202,Siemens & Halske Sh 12,,,3
+http://www.wikidata.org/entity/Q5463879,Focke-Wulf GL 18,http://www.wikidata.org/entity/Q3960201,Siemens-Halske Sh 11,,,3
+http://www.wikidata.org/entity/Q5463879,Focke-Wulf GL 18,http://www.wikidata.org/entity/Q3811333,Junkers L1,,,3
+http://www.wikidata.org/entity/Q180234,A 33 Sperber,http://www.wikidata.org/entity/Q59186,Walter Aircraft Engines,,,3
+http://www.wikidata.org/entity/Q5463879,Focke-Wulf GL 18,http://www.wikidata.org/entity/Q3960202,Siemens & Halske Sh 12,,,3
+http://www.wikidata.org/entity/Q5463879,Focke-Wulf GL 18,http://www.wikidata.org/entity/Q3960201,Siemens-Halske Sh 11,,,3
+http://www.wikidata.org/entity/Q5463879,Focke-Wulf GL 18,http://www.wikidata.org/entity/Q3811333,Junkers L1,,,3
+http://www.wikidata.org/entity/Q18084618,Airbus A330neo,http://www.wikidata.org/entity/Q24993354,Rolls-Royce Trent 7000,39000,,3
+http://www.wikidata.org/entity/Q18084618,Airbus A330neo,http://www.wikidata.org/entity/Q24993354,Rolls-Royce Trent 7000,39000,,3
+http://www.wikidata.org/entity/Q381217,Aero A.200,http://www.wikidata.org/entity/Q7964337,Walter Bora,,,2
+http://www.wikidata.org/entity/Q1381633,Evektor EV-55 Outback,http://www.wikidata.org/entity/Q106296423,PT6A,8839,,2
+http://www.wikidata.org/entity/Q929769,МС-21,http://www.wikidata.org/entity/Q4341007,ПД-14,,,2
+http://www.wikidata.org/entity/Q190114,Lockheed SR-71 Blackbird,http://www.wikidata.org/entity/Q2004495,Pratt & Whitney J58-P4,25908,34000000,2
+http://www.wikidata.org/entity/Q190114,Lockheed SR-71 Blackbird,http://www.wikidata.org/entity/Q2004495,Pratt & Whitney J58-P4,25929,34000000,2
+http://www.wikidata.org/entity/Q589357,ДАР-10,http://www.wikidata.org/entity/Q3744424,Fiat A.74,7250,,2
+http://www.wikidata.org/entity/Q589357,ДАР-10,http://www.wikidata.org/entity/Q3610946,Alfa Romeo 125,7250,,2
+http://www.wikidata.org/entity/Q589357,ДАР-10,http://www.wikidata.org/entity/Q3744424,Fiat A.74,23785,,2
+http://www.wikidata.org/entity/Q589357,ДАР-10,http://www.wikidata.org/entity/Q3610946,Alfa Romeo 125,23785,,2
+http://www.wikidata.org/entity/Q676997,А-40 «Альбатрос»,http://www.wikidata.org/entity/Q1049409,Д-30,,,2
+http://www.wikidata.org/entity/Q929769,МС-21,http://www.wikidata.org/entity/Q940491,Pratt & Whitney PW1000G,,,2
+http://www.wikidata.org/entity/Q680955,Latécoère 299,http://www.wikidata.org/entity/Q254293,Hispano-Suiza 12Y,,,2
+http://www.wikidata.org/entity/Q729056,Норт Американ XB-70 «Валькирия»,http://www.wikidata.org/entity/Q641962,General Electric YJ93,23576,,2
+http://www.wikidata.org/entity/Q60983158,Do C,http://www.wikidata.org/entity/Q15105362,Rolls-Royce Eagle IX,,,2
+http://www.wikidata.org/entity/Q63653045,Hodek HK-101,http://www.wikidata.org/entity/Q61728073,Walter Minor 4,,,2
+http://www.wikidata.org/entity/Q28054048,Boeing T-7 Red Hawk,http://www.wikidata.org/entity/Q947434,General Electric F404,,,2
+http://www.wikidata.org/entity/Q60983158,Do C,http://www.wikidata.org/entity/Q796760,BMW VI,,,2
+http://www.wikidata.org/entity/Q60983158,Do C,http://www.wikidata.org/entity/Q1807793,Napier Lion,,,2
+http://www.wikidata.org/entity/Q63653045,Hodek HK-101,http://www.wikidata.org/entity/Q61728073,Walter Minor 4,,,2
+http://www.wikidata.org/entity/Q7388456,SAB AB-20,http://www.wikidata.org/entity/Q6681677,Lorraine Pétrel,,,2
+http://www.wikidata.org/entity/Q63653045,Hodek HK-101,http://www.wikidata.org/entity/Q61728073,Walter Minor 4,,,2
+http://www.wikidata.org/entity/Q7388456,SAB AB-20,http://www.wikidata.org/entity/Q6681677,Lorraine Pétrel,,,2
+http://www.wikidata.org/entity/Q63653045,Hodek HK-101,http://www.wikidata.org/entity/Q61728073,Walter Minor 4,,,2
+http://www.wikidata.org/entity/Q929769,МС-21,http://www.wikidata.org/entity/Q4341007,ПД-14,,,2
+http://www.wikidata.org/entity/Q929769,МС-21,http://www.wikidata.org/entity/Q940491,Pratt & Whitney PW1000G,,,2
+http://www.wikidata.org/entity/Q16563015,Heinkel HE 10,http://www.wikidata.org/entity/Q796760,BMW VI,,,2
+http://www.wikidata.org/entity/Q56012245,Caspar C 27,http://www.wikidata.org/entity/Q796512,BMW IV,,,2
+http://www.wikidata.org/entity/Q929769,МС-21,http://www.wikidata.org/entity/Q4341007,ПД-14,,,2
+http://www.wikidata.org/entity/Q929769,МС-21,http://www.wikidata.org/entity/Q940491,Pratt & Whitney PW1000G,,,2
+http://www.wikidata.org/entity/Q16563015,Heinkel HE 10,http://www.wikidata.org/entity/Q796760,BMW VI,,,2
+http://www.wikidata.org/entity/Q56012245,Caspar C 27,http://www.wikidata.org/entity/Q796512,BMW IV,,,2
+http://www.wikidata.org/entity/Q849099,Б-11 (вертолёт),http://www.wikidata.org/entity/Q106295325,AI-26GR,,,2
+http://www.wikidata.org/entity/Q849099,Б-11 (вертолёт),http://www.wikidata.org/entity/Q106295325,AI-26GR,,,2
+http://www.wikidata.org/entity/Q929769,МС-21,http://www.wikidata.org/entity/Q4341007,ПД-14,,,2
+http://www.wikidata.org/entity/Q929769,МС-21,http://www.wikidata.org/entity/Q940491,Pratt & Whitney PW1000G,,,2
+http://www.wikidata.org/entity/Q16563015,Heinkel HE 10,http://www.wikidata.org/entity/Q796760,BMW VI,,,2
+http://www.wikidata.org/entity/Q63653045,Hodek HK-101,http://www.wikidata.org/entity/Q61728073,Walter Minor 4,,,2
+http://www.wikidata.org/entity/Q63653045,Hodek HK-101,http://www.wikidata.org/entity/Q61728073,Walter Minor 4,,,2
+http://www.wikidata.org/entity/Q929769,МС-21,http://www.wikidata.org/entity/Q4341007,ПД-14,,,2
+http://www.wikidata.org/entity/Q929769,МС-21,http://www.wikidata.org/entity/Q940491,Pratt & Whitney PW1000G,,,2
+http://www.wikidata.org/entity/Q16563015,Heinkel HE 10,http://www.wikidata.org/entity/Q796760,BMW VI,,,2
+http://www.wikidata.org/entity/Q63653045,Hodek HK-101,http://www.wikidata.org/entity/Q61728073,Walter Minor 4,,,2
+http://www.wikidata.org/entity/Q63653045,Hodek HK-101,http://www.wikidata.org/entity/Q61728073,Walter Minor 4,,,2
+http://www.wikidata.org/entity/Q929769,МС-21,http://www.wikidata.org/entity/Q4341007,ПД-14,,,2
+http://www.wikidata.org/entity/Q929769,МС-21,http://www.wikidata.org/entity/Q940491,Pratt & Whitney PW1000G,,,2
+http://www.wikidata.org/entity/Q929769,МС-21,http://www.wikidata.org/entity/Q4341007,ПД-14,,,2
+http://www.wikidata.org/entity/Q929769,МС-21,http://www.wikidata.org/entity/Q940491,Pratt & Whitney PW1000G,,,2
+http://www.wikidata.org/entity/Q86672262,Q86672262,http://www.wikidata.org/entity/Q85775024,Kroeber M4,,,2
+http://www.wikidata.org/entity/Q86672262,Q86672262,http://www.wikidata.org/entity/Q85775024,Kroeber M4,,,2
+http://www.wikidata.org/entity/Q647341,Santos-Dumont 14-bis,http://www.wikidata.org/entity/Q12775041,однорядный двигатель,,,1
+http://www.wikidata.org/entity/Q790758,Avia BH-6,http://www.wikidata.org/entity/Q15024795,Hispano-Suiza 8Fb,7000,,1
+http://www.wikidata.org/entity/Q1353965,NASA Pathfinder,http://www.wikidata.org/entity/Q58803,фотоэлемент,30480,,1
+http://www.wikidata.org/entity/Q1389595,FSS-100,http://www.wikidata.org/entity/Q1425359,Mikron,,,1
+http://www.wikidata.org/entity/Q1389595,FSS-100,http://www.wikidata.org/entity/Q1425359,Mikron,,,1
+http://www.wikidata.org/entity/Q1807231,Avia BH-20,http://www.wikidata.org/entity/Q3510742,Walter NZ 60,4000,,1
+http://www.wikidata.org/entity/Q1934909,Avia BH-12,http://www.wikidata.org/entity/Q3510742,Walter NZ 60,4500,,1
+http://www.wikidata.org/entity/Q4450165,Lockheed YP-24,http://www.wikidata.org/entity/Q113244840,V-1570-23 Conqueror,7620,,1
+http://www.wikidata.org/entity/Q4465765,Турболёт,http://www.wikidata.org/entity/Q926903,РД-9,,,1
+http://www.wikidata.org/entity/Q20861586,SAB AB-80,http://www.wikidata.org/entity/Q254293,Hispano-Suiza 12Y,,,1
+http://www.wikidata.org/entity/Q1982240,Ил-112,http://www.wikidata.org/entity/Q30892511,ТВ7-117,,,1
+http://www.wikidata.org/entity/Q190114,Lockheed SR-71 Blackbird,http://www.wikidata.org/entity/Q2004495,Pratt & Whitney J58-P4,25908,34000000,1
+http://www.wikidata.org/entity/Q190114,Lockheed SR-71 Blackbird,http://www.wikidata.org/entity/Q2004495,Pratt & Whitney J58-P4,25929,34000000,1
+http://www.wikidata.org/entity/Q521597,Ил-18,http://www.wikidata.org/entity/Q2451035,АШ-73,,,1
+http://www.wikidata.org/entity/Q3744452,Fiat G.2,http://www.wikidata.org/entity/Q3744421,Fiat A.60,,,1
+http://www.wikidata.org/entity/Q218695,Ил-22,http://www.wikidata.org/entity/Q568074,ТР-1,,,1
+http://www.wikidata.org/entity/Q5302133,Douglas XP3D,http://www.wikidata.org/entity/Q2092558,Pratt & Whitney R-1830 Twin Wasp,,,1
+http://www.wikidata.org/entity/Q1353965,NASA Pathfinder,http://www.wikidata.org/entity/Q58803,фотоэлемент,30480,,1
+http://www.wikidata.org/entity/Q1389595,FSS-100,http://www.wikidata.org/entity/Q1425359,Mikron,,,1
+http://www.wikidata.org/entity/Q326853,Fieseler F2 Tiger,http://www.wikidata.org/entity/Q31170,Walter Pollux,,,1
+http://www.wikidata.org/entity/Q688605,Флайер 1,http://www.wikidata.org/entity/Q12775041,однорядный двигатель,,,1
+http://www.wikidata.org/entity/Q790750,Avia BH-28,http://www.wikidata.org/entity/Q4793979,Armstrong Siddeley Jaguar,,,1
+http://www.wikidata.org/entity/Q8047176,Yakovlev AIR-7,http://www.wikidata.org/entity/Q61418,Bristol Jupiter,,,1
+http://www.wikidata.org/entity/Q15066918,Albatross W 2,http://www.wikidata.org/entity/Q1138418,Mercedes D.III,,,1
+http://www.wikidata.org/entity/Q64711429,Beneš-Mráz Be-52,http://www.wikidata.org/entity/Q61523205,Walter Major 4,5200,,1
+http://www.wikidata.org/entity/Q65081162,Beneš-Mráz Be-56 Beta-Major,http://www.wikidata.org/entity/Q61523205,Walter Major 4,6000,,1
+http://www.wikidata.org/entity/Q82663310,Guritzer van Nes A.III,http://www.wikidata.org/entity/Q3510742,Walter NZ 60,4200,,1
+http://www.wikidata.org/entity/Q98717622,Celera 500L,http://www.wikidata.org/entity/Q21072743,RED A03,,,1
+http://www.wikidata.org/entity/Q124962621,Q124962621,http://www.wikidata.org/entity/Q3853166,Maybach Mb.IVa,,,1
+http://www.wikidata.org/entity/Q133572989,Q133572989,http://www.wikidata.org/entity/Q4778440,Anzani 3-cylinder fan engines,3500,,1
+http://www.wikidata.org/entity/Q326853,Fieseler F2 Tiger,http://www.wikidata.org/entity/Q31170,Walter Pollux,,,1
+http://www.wikidata.org/entity/Q688605,Флайер 1,http://www.wikidata.org/entity/Q12775041,однорядный двигатель,,,1
+http://www.wikidata.org/entity/Q790750,Avia BH-28,http://www.wikidata.org/entity/Q4793979,Armstrong Siddeley Jaguar,,,1
+http://www.wikidata.org/entity/Q8047176,Yakovlev AIR-7,http://www.wikidata.org/entity/Q61418,Bristol Jupiter,,,1
+http://www.wikidata.org/entity/Q15066918,Albatross W 2,http://www.wikidata.org/entity/Q1138418,Mercedes D.III,,,1
+http://www.wikidata.org/entity/Q64711429,Beneš-Mráz Be-52,http://www.wikidata.org/entity/Q61523205,Walter Major 4,5200,,1
+http://www.wikidata.org/entity/Q65081162,Beneš-Mráz Be-56 Beta-Major,http://www.wikidata.org/entity/Q61523205,Walter Major 4,6000,,1
+http://www.wikidata.org/entity/Q82663310,Guritzer van Nes A.III,http://www.wikidata.org/entity/Q3510742,Walter NZ 60,4200,,1
+http://www.wikidata.org/entity/Q98717622,Celera 500L,http://www.wikidata.org/entity/Q21072743,RED A03,,,1
+http://www.wikidata.org/entity/Q124962621,Q124962621,http://www.wikidata.org/entity/Q3853166,Maybach Mb.IVa,,,1
+http://www.wikidata.org/entity/Q133572989,Q133572989,http://www.wikidata.org/entity/Q4778440,Anzani 3-cylinder fan engines,3500,,1
+http://www.wikidata.org/entity/Q170166,Martin Marietta X-24,http://www.wikidata.org/entity/Q504411,Reaction Motors XLR11,21765,,1
+http://www.wikidata.org/entity/Q221183,Douglas X-3,http://www.wikidata.org/entity/Q611039,Westinghouse J34,,,1
+http://www.wikidata.org/entity/Q1058099,Kharkiv KhAI-4,http://www.wikidata.org/entity/Q742981,М-11,,,1
+http://www.wikidata.org/entity/Q1139504,HAV 304,http://www.wikidata.org/entity/Q90986357,Thielert Centurion 4.0,,,1
+http://www.wikidata.org/entity/Q3771869,Martin Marietta X-24B,http://www.wikidata.org/entity/Q504411,Reaction Motors XLR11,22595,,1
+http://www.wikidata.org/entity/Q5102659,BOK-5,http://www.wikidata.org/entity/Q742981,М-11,,,1
+http://www.wikidata.org/entity/Q18391426,Ruhrtaler Ru.3,http://www.wikidata.org/entity/Q3622473,Argus As 8,,,1
+http://www.wikidata.org/entity/Q20861586,SAB AB-80,http://www.wikidata.org/entity/Q254293,Hispano-Suiza 12Y,,,1
+http://www.wikidata.org/entity/Q61347824,Dietrich DP.I,http://www.wikidata.org/entity/Q1533321,Гном-Рон,,,1
+http://www.wikidata.org/entity/Q125055830,Q125055830,http://www.wikidata.org/entity/Q818446,Benz Bz.III,,,1
+http://www.wikidata.org/entity/Q688605,Флайер 1,http://www.wikidata.org/entity/Q12775041,однорядный двигатель,,,1
+http://www.wikidata.org/entity/Q170166,Martin Marietta X-24,http://www.wikidata.org/entity/Q504411,Reaction Motors XLR11,21765,,1
+http://www.wikidata.org/entity/Q221183,Douglas X-3,http://www.wikidata.org/entity/Q611039,Westinghouse J34,,,1
+http://www.wikidata.org/entity/Q1058099,Kharkiv KhAI-4,http://www.wikidata.org/entity/Q742981,М-11,,,1
+http://www.wikidata.org/entity/Q1139504,HAV 304,http://www.wikidata.org/entity/Q90986357,Thielert Centurion 4.0,,,1
+http://www.wikidata.org/entity/Q3771869,Martin Marietta X-24B,http://www.wikidata.org/entity/Q504411,Reaction Motors XLR11,22595,,1
+http://www.wikidata.org/entity/Q5102659,BOK-5,http://www.wikidata.org/entity/Q742981,М-11,,,1
+http://www.wikidata.org/entity/Q18391426,Ruhrtaler Ru.3,http://www.wikidata.org/entity/Q3622473,Argus As 8,,,1
+http://www.wikidata.org/entity/Q20861586,SAB AB-80,http://www.wikidata.org/entity/Q254293,Hispano-Suiza 12Y,,,1
+http://www.wikidata.org/entity/Q61347824,Dietrich DP.I,http://www.wikidata.org/entity/Q1533321,Гном-Рон,,,1
+http://www.wikidata.org/entity/Q125055830,Q125055830,http://www.wikidata.org/entity/Q818446,Benz Bz.III,,,1
+http://www.wikidata.org/entity/Q107444535,Klemm L28,http://www.wikidata.org/entity/Q917172,Siemens & Halske Sh 14,,,1
+http://www.wikidata.org/entity/Q107444535,Klemm L28,http://www.wikidata.org/entity/Q917172,Siemens & Halske Sh 14,,,1
+http://www.wikidata.org/entity/Q1550587,Ту-70,http://www.wikidata.org/entity/Q2451035,АШ-73,11000,,1
+http://www.wikidata.org/entity/Q5699819,Heinkel HD 39,http://www.wikidata.org/entity/Q796512,BMW IV,,,1
+http://www.wikidata.org/entity/Q23045076,HK-2,http://www.wikidata.org/entity/Q19359067,O-235-C,,,1
+http://www.wikidata.org/entity/Q1550587,Ту-70,http://www.wikidata.org/entity/Q2451035,АШ-73,11000,,1
+http://www.wikidata.org/entity/Q5699819,Heinkel HD 39,http://www.wikidata.org/entity/Q796512,BMW IV,,,1
+http://www.wikidata.org/entity/Q23045076,HK-2,http://www.wikidata.org/entity/Q19359067,O-235-C,,,1
+http://www.wikidata.org/entity/Q181836,McDonnell 119,http://www.wikidata.org/entity/Q611039,Westinghouse J34,,,1
+http://www.wikidata.org/entity/Q181836,McDonnell 119,http://www.wikidata.org/entity/Q178777,реактивный двигатель,,,1
+http://www.wikidata.org/entity/Q580994,V.I,http://www.wikidata.org/entity/Q1813068,R-1690 Hornet,6500,,1
+http://www.wikidata.org/entity/Q688605,Флайер 1,http://www.wikidata.org/entity/Q12775041,однорядный двигатель,,,1
+http://www.wikidata.org/entity/Q974816,Darmstadt D-18,http://www.wikidata.org/entity/Q4793974,Armstrong Siddeley Genet Major,,,1
+http://www.wikidata.org/entity/Q1389595,FSS-100,http://www.wikidata.org/entity/Q1425359,Mikron,,,1
+http://www.wikidata.org/entity/Q4047918,RWD-11,http://www.wikidata.org/entity/Q69746540,Walter Major 6,,,1
+http://www.wikidata.org/entity/Q4881095,Beijing 1,http://www.wikidata.org/entity/Q720837,АИ-14,,,1
+http://www.wikidata.org/entity/Q8047175,Yakovlev AIR-5,http://www.wikidata.org/entity/Q1461777,Whirlwind,,,1
+http://www.wikidata.org/entity/Q56010755,LFG V 61,http://www.wikidata.org/entity/Q61418,Bristol Jupiter,4800,,1
+http://www.wikidata.org/entity/Q61347824,Dietrich DP.I,http://www.wikidata.org/entity/Q1533321,Гном-Рон,,,1
+http://www.wikidata.org/entity/Q111487303,Hopfner HV.12,http://www.wikidata.org/entity/Q904988,De Havilland Gipsy Major,4800,,1
+http://www.wikidata.org/entity/Q181836,McDonnell 119,http://www.wikidata.org/entity/Q611039,Westinghouse J34,,,1
+http://www.wikidata.org/entity/Q181836,McDonnell 119,http://www.wikidata.org/entity/Q178777,реактивный двигатель,,,1
+http://www.wikidata.org/entity/Q580994,V.I,http://www.wikidata.org/entity/Q1813068,R-1690 Hornet,6500,,1
+http://www.wikidata.org/entity/Q974816,Darmstadt D-18,http://www.wikidata.org/entity/Q4793974,Armstrong Siddeley Genet Major,,,1
+http://www.wikidata.org/entity/Q1389595,FSS-100,http://www.wikidata.org/entity/Q1425359,Mikron,,,1
+http://www.wikidata.org/entity/Q4047918,RWD-11,http://www.wikidata.org/entity/Q69746540,Walter Major 6,,,1
+http://www.wikidata.org/entity/Q4881095,Beijing 1,http://www.wikidata.org/entity/Q720837,АИ-14,,,1
+http://www.wikidata.org/entity/Q8047175,Yakovlev AIR-5,http://www.wikidata.org/entity/Q1461777,Whirlwind,,,1
+http://www.wikidata.org/entity/Q56010755,LFG V 61,http://www.wikidata.org/entity/Q61418,Bristol Jupiter,4800,,1
+http://www.wikidata.org/entity/Q61347824,Dietrich DP.I,http://www.wikidata.org/entity/Q1533321,Гном-Рон,,,1
+http://www.wikidata.org/entity/Q111487303,Hopfner HV.12,http://www.wikidata.org/entity/Q904988,De Havilland Gipsy Major,4800,,1
+http://www.wikidata.org/entity/Q38935,SpaceShipOne,http://www.wikidata.org/entity/Q1639965,Гибридный ракетный двигатель,,,1
+http://www.wikidata.org/entity/Q2486276,МДР-2,http://www.wikidata.org/entity/Q796760,BMW VI,,,1
+http://www.wikidata.org/entity/Q5503981,Friedrichshafen FF.34,http://www.wikidata.org/entity/Q14947923,Mb.IV,,,1
+http://www.wikidata.org/entity/Q7359822,Rohrbach Rostra,http://www.wikidata.org/entity/Q61418,Bristol Jupiter,3000,,1
+http://www.wikidata.org/entity/Q38935,SpaceShipOne,http://www.wikidata.org/entity/Q1639965,Гибридный ракетный двигатель,,,1
+http://www.wikidata.org/entity/Q2486276,МДР-2,http://www.wikidata.org/entity/Q796760,BMW VI,,,1
+http://www.wikidata.org/entity/Q5503981,Friedrichshafen FF.34,http://www.wikidata.org/entity/Q14947923,Mb.IV,,,1
+http://www.wikidata.org/entity/Q7359822,Rohrbach Rostra,http://www.wikidata.org/entity/Q61418,Bristol Jupiter,3000,,1
+http://www.wikidata.org/entity/Q4047918,RWD-11,http://www.wikidata.org/entity/Q69746540,Walter Major 6,,,1
+http://www.wikidata.org/entity/Q4047918,RWD-11,http://www.wikidata.org/entity/Q69746540,Walter Major 6,,,1
+http://www.wikidata.org/entity/Q81560661,Q81560661,http://www.wikidata.org/entity/Q173712,J. A. Prestwich Industries,,,1
+http://www.wikidata.org/entity/Q81560661,Q81560661,http://www.wikidata.org/entity/Q173712,J. A. Prestwich Industries,,,1
+http://www.wikidata.org/entity/Q4649844,AAC Wamira,http://www.wikidata.org/entity/Q2061540,Pratt & Whitney Canada PT6,,,0
+http://www.wikidata.org/entity/Q107526207,Heart Aerospace ES-19,http://www.wikidata.org/entity/Q72313,электродвигатель,,,0
+http://www.wikidata.org/entity/Q110709447,Venturi Echelon 1,http://www.wikidata.org/entity/Q72313,электродвигатель,,,0
+http://www.wikidata.org/entity/Q4649844,AAC Wamira,http://www.wikidata.org/entity/Q2061540,Pratt & Whitney Canada PT6,,,0
+http://www.wikidata.org/entity/Q107526207,Heart Aerospace ES-19,http://www.wikidata.org/entity/Q72313,электродвигатель,,,0
+http://www.wikidata.org/entity/Q110709447,Venturi Echelon 1,http://www.wikidata.org/entity/Q72313,электродвигатель,,,0
